@@ -10,6 +10,16 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+.primary-color-bg {
+  background-color: #1abc9c;
+}
+
+.secondary-color-bg {
+  background-color: #7c7676;
+}
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
