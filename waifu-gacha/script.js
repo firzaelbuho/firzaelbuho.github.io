@@ -14,8 +14,12 @@ img.style.height = "1px"
 btn.addEventListener('click', function () {
 
     // set timeout for loading bar
+
+
     setTimeout(function () {
 
+        // hide button
+        btn.style.visibility = 'hidden'
         // only work if not clicked yet
 
         if (!isClicked) {
@@ -36,9 +40,6 @@ btn.addEventListener('click', function () {
             <p>Rate :  ${waifus[x][2]} </p>
             `
             tittle.innerHTML = "Your Waifu is"
-            btn.innerHTML = "your waifu"
-            btn.classList.remove("btn-primary")
-            btn.classList.add("btn-secondary")
             isClicked = true
 
         }
