@@ -24,6 +24,11 @@ btn.addEventListener('click', function () {
             img.style.visibility = "visible"
             img.style.height = "600px"
             img.src = waifus[x][3]
+
+            // makes height of image keeps the aspect ratio, this line miust be placed after load src of image
+
+            img.style.height = 'auto'
+
             detail.innerHTML =
                 `
             <p>  ${waifus[x][0]} </p>
@@ -39,7 +44,7 @@ btn.addEventListener('click', function () {
         }
 
 
-    }, 5000)
+    }, 2000)
 
     const x = getRandom() - 1
     loader.style.visibility = "visible"
