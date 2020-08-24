@@ -26,17 +26,18 @@ btn.addEventListener('click', function () {
             loader.style.visibility = "hidden"
             loader.classList.add("my-3")
             img.style.visibility = "visible"
-            img.style.height = "600px"
             img.src = waifus[x][3]
 
             // makes height of image keeps the aspect ratio, this line miust be placed after load src of image
-
+            img.style.width = "100%"
             img.style.height = 'auto'
 
+            // set detail
+
             detail.innerHTML =
-                `
+                ` 
             <p>  ${waifus[x][0]} </p>
-            <p>  ${waifus[x][1]} </p> 
+            <p> ( ${waifus[x][1]} ) </p> 
             <p>Rate :  ${waifus[x][2]} </p>
             `
             tittle.innerHTML = "Your Waifu is"
@@ -59,7 +60,7 @@ btn.addEventListener('click', function () {
 
 const waifus = [
     ['Miyazono Kaori', 'Your Lie in April', 'SSR', 'https://intipanime.com/wp-content/uploads/2018/05/Before-1-1.png'],
-    ['Sawabe Tsubaki', 'Your Lie in April', 'B', 'https://i.pinimg.com/originals/ed/b0/9f/edb09fcfc07308bbb266af130c381520.jpg']
+    ['Sawabe Tsubaki', 'Your Lie in April', 'B', 'https://i.pinimg.com/originals/ed/b0/9f/edb09fcfc07308bbb266af130c381520.jpg'],
 
     ['Amane Misa', 'Death Note', 'A', 'https://assets-jpcust.jwpsrv.com/thumbnails/sj6851hv-720.jpg'],
 
@@ -97,7 +98,7 @@ const waifus = [
     ['Megumin', 'Konosuba', 'S', 'https://repository-images.githubusercontent.com/56785718/dae38380-9d87-11e9-855f-02f50aa93278'],
     ['Darkness', 'Konosuba', 'SS', 'https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/12/Inner-Darkness.jpg?q=50&fit=crop&w=740&h=370'],
     ['Aqua', 'Konosuba', 'SSR', 'https://i.ytimg.com/vi/ZZ060Fv74sY/maxresdefault.jpg'],
-    ['Wiz', 'Konosua', 'SSR', 'https://i.ytimg.com/vi/0ApLK-Q6Fyc/maxresdefault.jpg'],
+    ['Wiz', 'Konosuba', 'SSR', 'https://i.ytimg.com/vi/0ApLK-Q6Fyc/maxresdefault.jpg'],
 
     ['Kosaki Onodera', 'Nisekoi', 'S', 'https://4.bp.blogspot.com/-avb_L5iSGoA/VgVb8M27SCI/AAAAAAAABUk/qX994cDJ62Q/s1600/onodera.jpg'],
     ['Kirisaki Chitoge', 'Nisekoi', 'A', 'https://infotekmedia.files.wordpress.com/2017/03/joi-waifu-wednesday-chitoge-kirisaki-1.jpg'],
@@ -112,6 +113,7 @@ const waifus = [
     ['Rem', 'Re Zero', 'S', 'https://vignette.wikia.nocookie.net/rezero/images/0/02/Rem_Anime.png/revision/latest?cb=20160730213532'],
     ['Ram', 'Re Zero', 'A', 'https://media.comicbook.com/2020/07/rezero-season-2--1227639.jpeg?auto=webp&width=1200&height=644&crop=1200:644,smart'],
     ['Emilia', 'Re Zero', 'A', 'https://vignette.wikia.nocookie.net/rezero/images/c/c0/Emilia_Anime_2.png/revision/latest?cb=20160408203829'],
+
     ['Teruhashi Kokomi', 'Saiki Kusuo no Psi Nan', 'S', 'https://vignette.wikia.nocookie.net/saikikusounosainan/images/d/d5/Teruhashi_anime_1.png/revision/latest?cb=20191026234135']
 
 
