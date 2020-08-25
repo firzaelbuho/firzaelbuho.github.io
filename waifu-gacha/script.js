@@ -114,10 +114,26 @@ const waifus = [
     ['Ram', 'Re Zero', 'A', 'https://media.comicbook.com/2020/07/rezero-season-2--1227639.jpeg?auto=webp&width=1200&height=644&crop=1200:644,smart'],
     ['Emilia', 'Re Zero', 'A', 'https://vignette.wikia.nocookie.net/rezero/images/c/c0/Emilia_Anime_2.png/revision/latest?cb=20160408203829'],
 
-    ['Teruhashi Kokomi', 'Saiki Kusuo no Psi Nan', 'S', 'https://vignette.wikia.nocookie.net/saikikusounosainan/images/d/d5/Teruhashi_anime_1.png/revision/latest?cb=20191026234135']
+    ['Teruhashi Kokomi', 'Saiki Kusuo no Psi Nan', 'S', 'https://vignette.wikia.nocookie.net/saikikusounosainan/images/d/d5/Teruhashi_anime_1.png/revision/latest?cb=20191026234135'],
 
+    ['Kanae Kochou', 'Demon Slayer', 'B', 'https://www.anime-planet.com/images/characters/kanae-kochou-149237.jpg'],
+    ['Kanao Tsuyuri', 'Demon Slayer', 'A', 'https://pm1.narvii.com/7271/5e782fbff7f6df6d2d2a73ac7f9dd6c2323a7339r1-1121-853v2_uhq.jpg'],
+    ['Shinobu Kochou', 'Demon Slayer', 'S', 'https://i.pinimg.com/originals/b8/b7/5c/b8b75c61ca3b6e606fc5983256a8d1e8.jpg'],
+    ['Mitsuru Kanroji', 'Demon Slayer', 'A', 'https://asapland.com/wp-content/uploads/2020/07/demon-slayer-sexy-mitsuri-kanroji-cosplay-kinpatsu-v3-455827-990x557.jpg'],
+    ['Kamado Nezuko', 'Demon Slayer', 'S', 'https://pm1.narvii.com/7282/c4b02611acb5dde99c3f0d55cd6436c32845f5f7r1-1920-1080v2_uhq.jpg'],
 
+    ['Kohaku', 'Dr. Stone', 'A', 'https://i.pinimg.com/736x/c3/ee/fc/c3eefc09c7c873c9dbcb073308f3dc9e.jpg'],
+    ['Ruri', 'Dr. Stone', 'A', 'https://vignette.wikia.nocookie.net/dr-stone/images/d/d2/Ruri.png/revision/latest?cb=20200318125649'],
+    ['Yuzuriha', 'Dr. Stone', 'B', 'https://vignette.wikia.nocookie.net/dr-stone/images/8/88/452c8ee0d25f0d479f5384e00e3b6615.jpg/revision/latest?cb=20200624113318'],
 
+    ['Shiro', 'No Game No Life', 'A', 'https://i.pinimg.com/originals/f9/fc/2e/f9fc2e9828f9be624e92bf3e38dd36b1.jpg']
+
+    // ['Shiro', 'No Game No Life', 'A', ''],
+    // ['Shiro', 'No Game No Life', 'A', ''],
+    // ['Shiro', 'No Game No Life', 'A', ''],
+    // ['Shiro', 'No Game No Life', 'A', ''],
+    // ['Shiro', 'No Game No Life', 'A', ''],
+    // ['Shiro', 'No Game No Life', 'A', ''],
 
 ]
 
