@@ -126,15 +126,23 @@ const waifus = [
     ['Ruri', 'Dr. Stone', 'A', 'https://vignette.wikia.nocookie.net/dr-stone/images/d/d2/Ruri.png/revision/latest?cb=20200318125649'],
     ['Yuzuriha', 'Dr. Stone', 'B', 'https://vignette.wikia.nocookie.net/dr-stone/images/8/88/452c8ee0d25f0d479f5384e00e3b6615.jpg/revision/latest?cb=20200624113318'],
 
-    ['Shiro', 'No Game No Life', 'A', 'https://i.pinimg.com/originals/f9/fc/2e/f9fc2e9828f9be624e92bf3e38dd36b1.jpg']
+    ['Shiro', 'No Game No Life', 'A', 'https://i.pinimg.com/originals/f9/fc/2e/f9fc2e9828f9be624e92bf3e38dd36b1.jpg'],
 
-    // ['Shiro', 'No Game No Life', 'A', ''],
-    // ['Shiro', 'No Game No Life', 'A', ''],
-    // ['Shiro', 'No Game No Life', 'A', ''],
-    // ['Shiro', 'No Game No Life', 'A', ''],
-    // ['Shiro', 'No Game No Life', 'A', ''],
-    // ['Shiro', 'No Game No Life', 'A', ''],
+    ['Stephanie Dolla', 'No Game No Life', 'A', 'https://i.pinimg.com/originals/2b/7f/db/2b7fdb950e838a816ec9636d541206bf.jpg'],
+    ['Jibril', 'No Game No Life', 'B', 'https://i.ytimg.com/vi/qu4F3LI7nuc/maxresdefault.jpg'],
 
+    ['Izumi Sagiri', 'Eromanga Sensei', 'D', 'https://lh3.googleusercontent.com/proxy/qOoyc5NK0tr6CA9LEiJqWTjFWkvD6jV-g5wPiCpgxi2K1EilqNUnD9lAL24nbNyqd-JqzPWT0IBq_IcUbt1Ko-F_m-iiM8ysZNoxtopDEhOMBniLsQ4TVzWQfp-NOkkn'],
+
+    ['Yuzuriha Inori', 'Guilty Crown', 'S', 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d6d9835-0dd9-4464-b642-3a95f2403afe/dbubrfi-ed76d97f-da42-486b-8361-f73fe7de780f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWQ2ZDk4MzUtMGRkOS00NDY0LWI2NDItM2E5NWYyNDAzYWZlXC9kYnVicmZpLWVkNzZkOTdmLWRhNDItNDg2Yi04MzYxLWY3M2ZlN2RlNzgwZi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.dKDnB8Hgls3L-SDZjuQVJA-6bPqpLiu1OwyuzI_y0FM'],
+
+    ['Elizabeth Liones', 'Seven Deadly Sins', 'S', 'https://data.whicdn.com/images/331458971/original.png'],
+    ['Merlin', 'Seven Deadly Sins', 'A', 'https://i.pinimg.com/originals/cc/ac/48/ccac4838aaaf7f8e2363d102a439adec.jpg'],
+    ['Jericho', 'Seven Deadly Sins', 'A', 'https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/a/ae/Jericho.png/revision/latest?cb=20180127170750&path-prefix=es'],
+
+    ['CC', 'Code Geass', 'S', 'https://azumi.moe/wp-content/uploads/2019/03/cc-code-geass-lelouch-of-the-rebellion-609.jpg'],
+    ['Euphemia li Britannia', 'Code Geass', 'S', 'https://sites.google.com/site/codegeasstypemoon2000/_/rsrc/1477546614616/home/characters/subcategories/britannian-imperial-family/euphemia-li-britannia/Euphemia%20li%20Britannia.JPG'],
+    ['Cornelia li Britannia', 'Code Geass', 'SSR', 'https://static.zerochan.net/Cornelia.li.Britannia.full.1258585.jpg'],
+    ['Nunally vi Britannia', 'Code Geass', 'SS', 'https://pm1.narvii.com/6386/c0390445997b873ccc66bfb219b740d96dceebe3_00.jpg']
 ]
 
 function getRandom() {
