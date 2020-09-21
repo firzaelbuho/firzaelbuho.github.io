@@ -1,6 +1,7 @@
 const input = document.getElementById("inputField")
 const output = document.getElementById("outputField")
 const convert = document.getElementById("convertBtn")
+input.value = ""
 
 convert.addEventListener('click',
     function () {
