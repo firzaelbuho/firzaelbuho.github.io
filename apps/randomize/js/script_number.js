@@ -12,20 +12,28 @@ btnStart.addEventListener('click',
 
         if (startValue <= endValue) {
 
-            const myArray = makeArray(startValue, endValue)
-
-            alert(myArray)
-            const randomIndex = getRandom(makeArray.length)
-
-            const output = myArray[randomIndex]
-
-
             loader.innerHTML = `
+            
+            <div class="spinner-border text-primary "> </div>
+            <p class="m-2"> Randomizing ..... </p>`
+
+            setTimeout(function () {
+                const myArray = makeArray(startValue, endValue)
+
+                // alert(myArray)
+                const length = myArray.length - 1
+                const randomIndex = getRandom(length)
+
+                const output = myArray[randomIndex]
+
+
+                loader.innerHTML = `
         
                 <p style="font-size: x-large;">
                     ${output}
-                </p>
-        `
+                </p>`
+            }, 5000)
+
         } else {
 
             alert("End Number must be higher than Start Number")
@@ -54,6 +62,6 @@ function makeArray(start, end) {
 
 function getRandom(length) {
 
-    return Math.round(Math.random() * length)
+    return Math.round((Math.random() * (length)))
 
 }

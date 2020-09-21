@@ -6,40 +6,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Number Randomize</title>
+    <title>Custom Randomize</title>
     <!-- Latest compiled and minified CSS -->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="bootstrap.min.css">
 </head>
 
 <body id="page-top">
-
-    <div class="container text-center">
-
-        <h3 class="my-5">Number Randomizer</h3>
-        <div class="row justify-content-center">
-
-            <textarea name="inputField" id="inputField" cols="30" rows="10">
-
-            </textarea>
-            <textarea class="ml-2" name="outputField" id="outputField" cols="30" rows="10">
-
-            </textarea>
+    <!-- Navigation-->
 
 
+    <div class="mt-5 font-lg container text-center justify-content-center">
+        <h3 class="m-5">Custom Randomizer</h3>
 
+        <div class="row justify-content-center"">
+            <div class=" col-6-lg col-md-6 col-sm-8 col-xs-11">
+
+            <div class="row mx-2">
+                <div class="col">
+                    <p>New Item :</p>
+                    <input id="item" type="text" class="form-control">
+                    <button class="mt-2 btn btn-primary" id="add">Add item</button>
+                </div>
+
+                <div class="col">
+                    <p>Item List :</p>
+                    <div class="overflow-auto" style="height: 300px;">
+                        <ul class="mt-2" id="itemList">
+                    </div>
+
+
+                    </ul>
+
+
+                </div>
+            </div>
+            <p>
+                <button id="btnReset" class="btn btn-warning p-2 my-3">Reset</button>
+                <button id="btnStart" class="btn btn-primary p-2 my-3">Start randomize</button>
+            </p>
+            <div id="loader"></div>
 
         </div>
-        <div class="mt-5 row justify-content-center">
-            <button class="btn btn-primary" id="convertBtn">Convert</button>
-        </div>
-
-
     </div>
 
 
 
-    <script src="script.js"></script>
+    </div>
+
+    <br><br><br><br><br><br>
+
+
+    <p class="text-center mt-5">
+        <span>
+            Made with <i class="mx-1 fa fa-heart pulse"></i> by firzaelbuho</span>
+    </p>
+
+
+
+
+
+    <script src="js/script_custom.js"></script>
 </body>
 
 </html>
