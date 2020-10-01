@@ -1,0 +1,26 @@
+.jumbotron {
+    background-image:url(../img/bg0.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#side-content {
+    background-color: gainsboro;
+}
+
+#content { 
+    background-color: gainsboro;
+}
+
+.section-berita {
+
+    border: 1px solid gainsboro;
+}
+
+.berita img {
+    
+    height: 100%;
+    height: auto;
+}
+
