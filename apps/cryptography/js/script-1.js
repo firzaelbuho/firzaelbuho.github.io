@@ -5,6 +5,7 @@ let btnNode = document.getElementById("encryptBtn")
 
 let arrayOfAlphabets = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
+plainNode.value = "masukkan plain text"
 
 btnNode.addEventListener('click',
     function () {
