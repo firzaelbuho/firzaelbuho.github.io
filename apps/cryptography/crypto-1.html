@@ -11,17 +11,21 @@
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <title>Kriptografi - 1</title>
+
 </head>
 
 <body>
     <h1 class="m-4">Kriptografi</h1>
+    <select class="m-4" name="mode" id="mode">
+        <option value="enkripsi">Enkripsi</option>
+        <option value="dekripsi">Dekripsi</option>
+    </select>
 
     <div class="container">
         <div class="row">
             <div class="col">
-                <textarea class=" form-control" name="plain" id="plain" cols="30" rows="10">
-                    "masukan plain text ....
-                </textarea>
+                <textarea class=" form-control" name="plain" id="plain" cols="30" rows="10" type="password"
+                    placeholder="Masukkan plain text" title="text must be lowercase and no space"></textarea>
             </div>
             <div class="col">
                 <textarea class="form-control" name="cipher" id="cipher" cols="30" rows="10">
@@ -29,7 +33,7 @@
                 </textarea>
             </div>
         </div>
-        <p>Key : </p><input type="number" id="key">
+        <p>Key : </p><input type="number" id="key" value="0">
         <button class="btn btn-primary" id="encryptBtn">Mulai Enkripsi</button>
     </div>
 
