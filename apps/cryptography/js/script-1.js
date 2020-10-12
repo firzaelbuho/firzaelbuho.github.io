@@ -18,6 +18,10 @@ plainNode.value = ""
 // on changing mode
 
 modeNode.addEventListener('change', function () {
+
+    plainNode.value = ""
+    cipherNode.value = ""
+
     mode = modeNode.value
     if (mode === "enkripsi") {
         plainNode.placeholder = "mauskan plaintext .."
