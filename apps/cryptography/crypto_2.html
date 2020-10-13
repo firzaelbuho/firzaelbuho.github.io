@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Kriptografi - 2</title>
+
+</head>
+
+<body>
+    <h1 class="m-4">Kriptografi - 2</h1>
+
+    <div class="container">
+        <select class="my-4" name="mode" id="mode">
+            <option value="enkripsi">Enkripsi</option>
+            <option value="dekripsi">Dekripsi</option>
+        </select>
+
+        <div class="row">
+            <div class="col">
+                <textarea class=" form-control" name="plain" id="plain" cols="30" rows="10" type="password"
+                    placeholder="Masukkan plain text" title="text must be lowercase and no space"></textarea>
+            </div>
+            <div class="col">
+                <textarea class="form-control" name="cipher" id="cipher" cols="30" rows="10">
+
+                </textarea>
+            </div>
+        </div>
+        <p>Key : </p><input class="form-control" type="text" id="key"
+            placeholder="isi hanya dengan huruf alfabet tanpa spasi">
+        <br>
+        <button class="btn btn-primary" id="encryptBtn">Mulai Enkripsi</button>
+    </div>
+
+
+
+    </cdiv>
+
+
+    <script src="js/script_2.js"></script>
+</body>
+
+</html>

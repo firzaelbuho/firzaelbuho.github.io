@@ -24,9 +24,9 @@ modeNode.addEventListener('change', function () {
 
     mode = modeNode.value
     if (mode === "enkripsi") {
-        plainNode.placeholder = "mauskan plaintext .."
+        plainNode.placeholder = "masukkan plaintext .."
     } else {
-        plainNode.placeholder = "mauskan ciphertext .."
+        plainNode.placeholder = "masukkan ciphertext .."
     }
     btnNode.innerHTML = "Mulai Dekripsi"
 })
@@ -150,20 +150,20 @@ function getResult(rawText, arrayOfResult) {
 
     }
 
-    let preCipherText = []
+    let preResultText = []
 
     // convert the array of index of rawtext into result text
     for (var i = 0; i < arrayOfIndex.length; i++) {
         let index = arrayOfIndex[i]
         let value = arrayOfResult[index]
-        preCipherText.push(value)
+        preResultText.push(value)
 
 
     }
 
     // join the array into string
 
-    let resultText = preCipherText.join("")
+    let resultText = preResultText.join("")
 
     return resultText
 
