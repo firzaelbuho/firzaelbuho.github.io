@@ -1,3 +1,7 @@
+// Firza Nanda Rio Aditya
+// 4611418017
+
+
 let keyNode = document.getElementById("key")
 let plainNode = document.getElementById("plain")
 let cipherNode = document.getElementById("cipher")
@@ -40,42 +44,34 @@ btnNode.addEventListener('click',
         let rawText = plainNode.value.toLowerCase()
         plainNode.value = rawText
 
-        let key = keyNode.value.toLowerCase()
-
-
-
-
-
-
-
-
-
-
-
-        // get arays of cipher
-        let arrayOfCipher = getArrayOfCipher(key)
-
-        // add space to arrayOfCipher
-        arrayOfCipher.push(' ')
-
+        let key = parseInt(keyNode.value) % 26
 
 
 
         // check mode
+
+        let arrayOfResult = []
+
+
         if (mode === "enkripsi") {
-
-
-            // get result string if encrypt
-            let result = getResult(rawText, arrayOfAlphabets, arrayOfCipher)
-            cipherNode.value = result
+            arrayOfResult = getEncrypt(key)
         } else {
-
-            // get result string if decrypt
-            let result = getResult(rawText, arrayOfCipher, arrayOfAlphabets)
-            cipherNode.value = result
+            arrayOfResult = getDecrypt(key)
         }
 
+        // add space to arrayOfResult
 
+        arrayOfResult.push(' ')
+
+
+
+        // get result string
+
+        let result = getResult(rawText, arrayOfResult)
+
+
+
+        cipherNode.value = result
 
     }
 )
@@ -83,29 +79,23 @@ btnNode.addEventListener('click',
 
 // encryption proccess
 
-function getArrayOfCipher(key) {
+function getEncrypt(key) {
 
     // make new list Alphabet after encrypted
 
     let arrayOfCipher = []
-    for (var i = 0; i < key.length; i++) {
-
-        let value = key[i]
-        // check if char exist or not
-        if (!arrayOfCipher.includes(value)) {
-            arrayOfCipher.push(value)
-        }
-
-    }
     for (var i = 0; i < 26; i++) {
 
+        let index = i + key
 
-        let value = arrayOfAlphabets[i]
-
-        // check if char exist or not
-        if (!arrayOfCipher.includes(value)) {
-            arrayOfCipher.push(value)
+        if ((index) > 25) {
+            index = index % 26
         }
+        arrayOfCipher.push(arrayOfAlphabets[index])
+
+
+
+
 
     }
     return arrayOfCipher
@@ -114,9 +104,27 @@ function getArrayOfCipher(key) {
 
 // decryption proccess
 
+function getDecrypt(key) {
+
+    // make new list Alphabet after decrypted
+
+    let arrayOfPlain = []
+    for (var i = 0; i < 26; i++) {
+
+        let index = i - key
+
+        if ((index) < 0) {
+            index = index + 26
+        }
+        arrayOfPlain.push(arrayOfAlphabets[index])
 
 
-function getResult(rawText, arrayOfRaw, arrayOfResult) {
+
+    }
+    return arrayOfPlain
+}
+
+function getResult(rawText, arrayOfResult) {
 
     // make array of result index each characters
 
@@ -137,7 +145,7 @@ function getResult(rawText, arrayOfRaw, arrayOfResult) {
             index = 26
 
         } else {
-            index = arrayOfRaw.indexOf(charValue)
+            index = arrayOfAlphabets.indexOf(charValue)
         }
 
         arrayOfIndex.push(index)

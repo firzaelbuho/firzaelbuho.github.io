@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Kriptografi-4 ( Hill Cipher )</title>
+  <meta name="viewport" content="width=device-width; initial-scale=1.0;">
+  <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <h1>Kriptografi-4 ( Hill Cipher )</h1>
+
+  <div id="inSec">
+    <p id="inputTM">Pilih Key Matriks </p><br>
+    <div id="EDMenu">
+      <button id="enhButton0" type="button">Enkripsi</button>
+      <button id="dehButton0" type="button">Dekripsi</button>
+    </div>
+
+
+    <select id="choice">
+      <option value="m22">Matriks 2 X 2</option>
+      <option value="m33">Matriks 3 X 3</option>
+    </select>
+
+    <form id="m22">
+      <input id="tw0" type="number" name="index" min="0" max="25">
+      <input id="tw1" type="number" name="index" min="0" max="25"> <br />
+      <input id="tw2" type="number" name="index" min="0" max="25">
+      <input id="tw3" type="number" name="index" min="0" max="25">
+    </form>
+
+
+    <form id="m33">
+      <input id="tr0" type="number" name="index" min="0" max="25">
+      <input id="tr1" type="number" name="index" min="0" max="25">
+      <input id="tr2" type="number" name="index" min="0" max="25">
+      <input id="tr3" type="number" name="index" min="0" max="25">
+      <input id="tr4" type="number" name="index" min="0" max="25">
+      <input id="tr5" type="number" name="index" min="0" max="25">
+      <input id="tr6" type="number" name="index" min="0" max="25">
+      <input id="tr7" type="number" name="index" min="0" max="25">
+      <input id="tr8" type="number" name="index" min="0" max="25">
+    </form>
+
+    <button id="subButtonH" type="button">Kirim</button><br>
+
+  </div>
+
+  <!-- need to use "strip" function in encrypt.js -->
+  <script src="scripts/util.js"></script>
+  <script src="scripts/storage.js"></script>
+  <script src="scripts/index.js"></script>
+</body>
+
+</html>

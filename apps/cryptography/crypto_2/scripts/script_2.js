@@ -1,3 +1,6 @@
+// Firza Nanda Rio Aditya
+// 4611418017
+
 let keyNode = document.getElementById("key")
 let plainNode = document.getElementById("plain")
 let cipherNode = document.getElementById("cipher")
@@ -40,34 +43,42 @@ btnNode.addEventListener('click',
         let rawText = plainNode.value.toLowerCase()
         plainNode.value = rawText
 
-        let key = parseInt(keyNode.value) % 26
+        let key = keyNode.value.toLowerCase()
+
+
+
+
+
+
+
+
+
+
+
+        // get arays of cipher
+        let arrayOfCipher = getArrayOfCipher(key)
+
+        // add space to arrayOfCipher
+        arrayOfCipher.push(' ')
+
 
 
 
         // check mode
-
-        let arrayOfResult = []
-
-
         if (mode === "enkripsi") {
-            arrayOfResult = getEncrypt(key)
+
+
+            // get result string if encrypt
+            let result = getResult(rawText, arrayOfAlphabets, arrayOfCipher)
+            cipherNode.value = result
         } else {
-            arrayOfResult = getDecrypt(key)
+
+            // get result string if decrypt
+            let result = getResult(rawText, arrayOfCipher, arrayOfAlphabets)
+            cipherNode.value = result
         }
 
-        // add space to arrayOfResult
 
-        arrayOfResult.push(' ')
-
-
-
-        // get result string
-
-        let result = getResult(rawText, arrayOfResult)
-
-
-
-        cipherNode.value = result
 
     }
 )
@@ -75,23 +86,29 @@ btnNode.addEventListener('click',
 
 // encryption proccess
 
-function getEncrypt(key) {
+function getArrayOfCipher(key) {
 
     // make new list Alphabet after encrypted
 
     let arrayOfCipher = []
+    for (var i = 0; i < key.length; i++) {
+
+        let value = key[i]
+        // check if char exist or not
+        if (!arrayOfCipher.includes(value)) {
+            arrayOfCipher.push(value)
+        }
+
+    }
     for (var i = 0; i < 26; i++) {
 
-        let index = i + key
 
-        if ((index) > 25) {
-            index = index % 26
+        let value = arrayOfAlphabets[i]
+
+        // check if char exist or not
+        if (!arrayOfCipher.includes(value)) {
+            arrayOfCipher.push(value)
         }
-        arrayOfCipher.push(arrayOfAlphabets[index])
-
-
-
-
 
     }
     return arrayOfCipher
@@ -100,27 +117,9 @@ function getEncrypt(key) {
 
 // decryption proccess
 
-function getDecrypt(key) {
-
-    // make new list Alphabet after decrypted
-
-    let arrayOfPlain = []
-    for (var i = 0; i < 26; i++) {
-
-        let index = i - key
-
-        if ((index) < 0) {
-            index = index + 26
-        }
-        arrayOfPlain.push(arrayOfAlphabets[index])
 
 
-
-    }
-    return arrayOfPlain
-}
-
-function getResult(rawText, arrayOfResult) {
+function getResult(rawText, arrayOfRaw, arrayOfResult) {
 
     // make array of result index each characters
 
@@ -141,7 +140,7 @@ function getResult(rawText, arrayOfResult) {
             index = 26
 
         } else {
-            index = arrayOfAlphabets.indexOf(charValue)
+            index = arrayOfRaw.indexOf(charValue)
         }
 
         arrayOfIndex.push(index)
