@@ -1,7 +1,10 @@
+// Firza Nanda Rio Aditya
+// 4611418017
+
 "use strict";
-Storage.prototype.setObj = function(key, obj) {
+Storage.prototype.setObj = function (key, obj) {
     return this.setItem(key, JSON.stringify(obj))
 }
-Storage.prototype.getObj = function(key) {
+Storage.prototype.getObj = function (key) {
     return JSON.parse(this.getItem(key))
 }

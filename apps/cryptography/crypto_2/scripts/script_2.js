@@ -43,7 +43,7 @@ btnNode.addEventListener('click',
         let rawText = plainNode.value.toLowerCase()
         plainNode.value = rawText
 
-        let key = keyNode.value.toLowerCase()
+        let key = keyNode.value.toLowerCase().replace(/\s+/g, "")
 
 
 

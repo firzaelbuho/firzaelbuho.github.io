@@ -1,3 +1,6 @@
+// Firza Nanda Rio Aditya
+// 4611418017
+
 "use strict";
 window.addEventListener("load", setupPage);
 
@@ -16,12 +19,12 @@ function encrypt() {
   var premodMatrix;
 
 
-  if ( plainT == "" ) {
+  if (plainT == "") {
     alert("Please input a text to be encrypted.");
   }
   else {
 
-    if ( dimension == 2 ) {
+    if (dimension == 2) {
       var digrams = getDigrams(plainT);
       columnVectors = getColumnVectors(digrams, 2);
       premodMatrix = getPremodMatrix(columnVectors, 2);
@@ -29,8 +32,8 @@ function encrypt() {
       for (var i in premodMatrix) {
         topElement = premodMatrix[i][0];
         bottomElement = premodMatrix[i][1];
-        encryptedArray.push( [topElement % 26, bottomElement % 26] );
-      } 
+        encryptedArray.push([topElement % 26, bottomElement % 26]);
+      }
     }
     else {
       var trigraph = getTrigraph(plainT);
@@ -42,11 +45,11 @@ function encrypt() {
         topElement = premodMatrix[i][0];
         middleElement = premodMatrix[i][1];
         bottomElement = premodMatrix[i][2];
-        encryptedArray.push( [topElement % 26, middleElement % 26, bottomElement % 26] );
-      }       
+        encryptedArray.push([topElement % 26, middleElement % 26, bottomElement % 26]);
+      }
     }
-    
-  document.getElementById("encT").innerHTML = 
-              reverseSearch(encryptedArray, dimension).toString().replace(/,/ig, " ");
+
+    document.getElementById("encT").innerHTML =
+      reverseSearch(encryptedArray, dimension).toString().replace(/,/ig, " ");
   }
 }

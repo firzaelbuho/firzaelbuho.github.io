@@ -1,3 +1,7 @@
+// Firza Nanda Rio Aditya
+// 4611418017
+
+
 "use strict";
 window.addEventListener("load", setupPage);
 
@@ -36,39 +40,39 @@ function fillMatrix() {
   userInput = userInput.toLowerCase();
 
   // Fill in the keyword
-  while ( keyIndex < userInput.length ) {
+  while (keyIndex < userInput.length) {
     var letter = userInput.charAt(keyIndex);
-    if ( matrix.indexOf(letter) == -1 ) {
+    if (matrix.indexOf(letter) == -1) {
       matrix[matrixIndex] = letter;
       matrixIndex++;
     }
     keyIndex++;
   }
-      // Insert unique letters from the alphabet
-      for (var item in alphabet) {
-        var literal = alphabet.charAt(item);
+  // Insert unique letters from the alphabet
+  for (var item in alphabet) {
+    var literal = alphabet.charAt(item);
 
-        //check both uppercase and lowercase letters
-        var letterNotInMatrix = (matrix.indexOf(literal) +
-          matrix.indexOf(literal.toUpperCase()) == -2);
+    //check both uppercase and lowercase letters
+    var letterNotInMatrix = (matrix.indexOf(literal) +
+      matrix.indexOf(literal.toUpperCase()) == -2);
 
-        // if the letter is not in the matrix (-1 + -1)
-        if ( letterNotInMatrix   ) {
-          // Skip i or j if already in matrix
-          if ( (literal == "i" || literal == "I") && (matrix.indexOf("j") == -1 &&
-                matrix.indexOf("J") == -1 ) ) {
-                  matrix[matrixIndex] = literal;
-                  matrixIndex++;
-                }
-          // replace j with i
-          else if ( literal == "j" || literal == "J" &&
-              (matrix.indexOf("i") == -1 && matrix.indexOf("I") == -1 ) ) {}
-          else {
-            matrix[matrixIndex] = literal;
-            matrixIndex++;
-          }
-        }
+    // if the letter is not in the matrix (-1 + -1)
+    if (letterNotInMatrix) {
+      // Skip i or j if already in matrix
+      if ((literal == "i" || literal == "I") && (matrix.indexOf("j") == -1 &&
+        matrix.indexOf("J") == -1)) {
+        matrix[matrixIndex] = literal;
+        matrixIndex++;
       }
+      // replace j with i
+      else if (literal == "j" || literal == "J" &&
+        (matrix.indexOf("i") == -1 && matrix.indexOf("I") == -1)) { }
+      else {
+        matrix[matrixIndex] = literal;
+        matrixIndex++;
+      }
+    }
+  }
   return matrix;
 }
 
@@ -87,12 +91,12 @@ function getDigrams(aString) {
     digramLength = tempDigram.length;
     letter = input.charAt(count);
 
-    if ( digramLength == 0 ) {
+    if (digramLength == 0) {
       tempDigram += letter;
     }
-    else if ( digramLength == 1 ) {
+    else if (digramLength == 1) {
       var str = tempDigram.charAt(0);
-      if (  str == letter ) {
+      if (str == letter) {
         tempDigram += "x";
         count--; // stay at the current char
       }
@@ -109,15 +113,15 @@ function getDigrams(aString) {
     }
 
     // check odd ending
-    if ( textLength % 2 != 0 && count == input.length - 1
-          && tempDigram.length % 2 != 0 ) {
+    if (textLength % 2 != 0 && count == input.length - 1
+      && tempDigram.length % 2 != 0) {
       tempDigram += "x";
       array.push(tempDigram);
     }
     // check odd letters
     else if (count == input.length - 1 && tempDigram.length != 0) {
-        tempDigram = letter + "x";
-        array.push(tempDigram);
+      tempDigram = letter + "x";
+      array.push(tempDigram);
     }
     count++;
   }
@@ -145,7 +149,7 @@ function encrypt() {
   var max;
 
 
-  if ( plainT == "" ) {
+  if (plainT == "") {
     alert("Please input a text to be encrypted.");
   }
   else {
@@ -191,72 +195,72 @@ function encrypt() {
         }
       }
       // if in the same row
-      else if ( difference <= 4 && maxDistanceFromEdge > minDistanceFromEdge ) {
+      else if (difference <= 4 && maxDistanceFromEdge > minDistanceFromEdge) {
 
         //further verification (diagonal check)
         if (difference == 4) {
 
-          if ( ((max + 1) % 5) == 0 ) {
+          if (((max + 1) % 5) == 0) {
 
-            if ( ( (letterPosition1 + 1) % 5) == 0 ) {
+            if (((letterPosition1 + 1) % 5) == 0) {
               tempString += matrix[letterPosition1 - 4];
               tempString += matrix[letterPosition2 + 1];
             }
-            else if ( ( (letterPosition2 + 1) % 5) == 0  ) {
+            else if (((letterPosition2 + 1) % 5) == 0) {
               tempString += matrix[letterPosition1 + 1];
               tempString += matrix[letterPosition2 - 4];
             }
           }
         }
-          else {
-
-            if ( ( letterPosition1 + 1 ) % 5 == 0 ) {
-              tempString += matrix[letterPosition1 - 4];
-              tempString += matrix[letterPosition2 + 1];
-            }
-            else if ( ( letterPosition2 + 1 ) % 5 == 0 ) {
-              tempString += matrix[letterPosition1 + 1];
-              tempString += matrix[letterPosition2 - 4];
-            }
-            else {
-              tempString += matrix[letterPosition1 + 1];
-              tempString += matrix[letterPosition2 + 1];
-            }
-          }
-        }
-
-        // diagonal part
         else {
 
-          var counter = min;
-          var rowD = 0;
-
-
-          // if at the edge of matrix
-          if ( (min + 1) % 5 == 0 || minDistanceFromEdge > maxDistanceFromEdge ) {
-            /* loop till the desired column is reached */
-            while ( Math.abs(counter - max) % 5 != 0 ) {counter--; rowD--;}
+          if ((letterPosition1 + 1) % 5 == 0) {
+            tempString += matrix[letterPosition1 - 4];
+            tempString += matrix[letterPosition2 + 1];
           }
-          else{
-            /* loop till the desired column is reached */
-            while ( Math.abs(counter - max) % 5 != 0 ) {counter++; rowD++;}
-          }
-
-          if ( letterPosition1 == min ) {
-            tempString += matrix[letterPosition1 + rowD];
-            tempString += matrix[letterPosition2 - rowD];
+          else if ((letterPosition2 + 1) % 5 == 0) {
+            tempString += matrix[letterPosition1 + 1];
+            tempString += matrix[letterPosition2 - 4];
           }
           else {
-            tempString += matrix[letterPosition1 - rowD];
-            tempString += matrix[letterPosition2 + rowD];
+            tempString += matrix[letterPosition1 + 1];
+            tempString += matrix[letterPosition2 + 1];
           }
         }
-
-        encryptedArray.push(tempString);
-        tempString = "";
       }
-      document.getElementById("encT").innerHTML =
-                        encryptedArray.toString().replace(/,/ig, " ");
-    }
 
+      // diagonal part
+      else {
+
+        var counter = min;
+        var rowD = 0;
+
+
+        // if at the edge of matrix
+        if ((min + 1) % 5 == 0 || minDistanceFromEdge > maxDistanceFromEdge) {
+          /* loop till the desired column is reached */
+          while (Math.abs(counter - max) % 5 != 0) { counter--; rowD--; }
+        }
+        else {
+          /* loop till the desired column is reached */
+          while (Math.abs(counter - max) % 5 != 0) { counter++; rowD++; }
+        }
+
+        if (letterPosition1 == min) {
+          tempString += matrix[letterPosition1 + rowD];
+          tempString += matrix[letterPosition2 - rowD];
+        }
+        else {
+          tempString += matrix[letterPosition1 - rowD];
+          tempString += matrix[letterPosition2 + rowD];
+        }
+      }
+
+      encryptedArray.push(tempString);
+      tempString = "";
+    }
+    document.getElementById("encT").innerHTML =
+      encryptedArray.toString().replace(/,/ig, " ");
   }
+
+}

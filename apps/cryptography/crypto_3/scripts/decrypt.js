@@ -1,3 +1,7 @@
+// Firza Nanda Rio Aditya
+// 4611418017
+
+
 "use strict";
 window.addEventListener("load", loadPage);
 
@@ -25,7 +29,7 @@ function decrypt() {
   var max;
 
 
-  if ( ciphT == "" ) {
+  if (ciphT == "") {
     alert("Please input a text to be decrypted.")
   }
   else {
@@ -63,81 +67,81 @@ function decrypt() {
         }
       }
       // if in the same row
-      else if ( difference <= 4 && maxDistanceFromEdge > minDistanceFromEdge ) {
+      else if (difference <= 4 && maxDistanceFromEdge > minDistanceFromEdge) {
 
         //further verification (diagonal check)
         if (difference == 4) {
 
-          if ( ((max + 1) % 5) == 0 ) {
+          if (((max + 1) % 5) == 0) {
 
-            if ( ( (letterPosition1 + 1) % 5) == 0 ) {
+            if (((letterPosition1 + 1) % 5) == 0) {
               tempString += matrix[letterPosition1 - 1];
               tempString += matrix[letterPosition2 + 4];
             }
-            else if ( ( (letterPosition2 + 1) % 5) == 0  ) {
+            else if (((letterPosition2 + 1) % 5) == 0) {
               tempString += matrix[letterPosition1 + 4];
               tempString += matrix[letterPosition2 - 1];
             }
           }
         }
-          else {
-
-            if ( ( letterPosition1 + 1 ) % 5 == 0 ) {
-              tempString += matrix[letterPosition1 - 1];
-              tempString += matrix[letterPosition2 - 1];
-            }
-            else if ( ( letterPosition2 + 1 ) % 5 == 0 ) {
-              tempString += matrix[letterPosition1 - 1];
-              tempString += matrix[letterPosition2 - 1];
-            }
-            else if ( letterPosition1  % 5 == 0 ) {
-              tempString += matrix[letterPosition1 + 4];
-              tempString += matrix[letterPosition2 - 1];
-            }
-            else if ( letterPosition2  % 5 == 0 ) {
-              tempString += matrix[letterPosition1 - 1];
-              tempString += matrix[letterPosition2 + 4];
-            }
-            else {
-              tempString += matrix[letterPosition1 - 1];
-              tempString += matrix[letterPosition2 - 1];
-            }
-          }
-        }
-
-        // diagonal part
         else {
 
-          var counter = min;
-          var rowD = 0;
-
-
-          // if at the edge of matrix
-          if ( (min + 1) % 5 == 0 || minDistanceFromEdge > maxDistanceFromEdge ) {
-            /* loop till the desired column is reached */
-            while ( Math.abs(counter - max) % 5 != 0 ) {counter--; rowD--;}
+          if ((letterPosition1 + 1) % 5 == 0) {
+            tempString += matrix[letterPosition1 - 1];
+            tempString += matrix[letterPosition2 - 1];
           }
-          else{
-            /* loop till the desired column is reached */
-            while ( Math.abs(counter - max) % 5 != 0 ) {counter++; rowD++;}
+          else if ((letterPosition2 + 1) % 5 == 0) {
+            tempString += matrix[letterPosition1 - 1];
+            tempString += matrix[letterPosition2 - 1];
           }
-
-          if ( letterPosition1 == min ) {
-            tempString += matrix[letterPosition1 + rowD];
-            tempString += matrix[letterPosition2 - rowD];
+          else if (letterPosition1 % 5 == 0) {
+            tempString += matrix[letterPosition1 + 4];
+            tempString += matrix[letterPosition2 - 1];
+          }
+          else if (letterPosition2 % 5 == 0) {
+            tempString += matrix[letterPosition1 - 1];
+            tempString += matrix[letterPosition2 + 4];
           }
           else {
-            tempString += matrix[letterPosition1 - rowD];
-            tempString += matrix[letterPosition2 + rowD];
+            tempString += matrix[letterPosition1 - 1];
+            tempString += matrix[letterPosition2 - 1];
           }
         }
-
-        decryptedArray.push(tempString);
-        tempString = "";
       }
+
+      // diagonal part
+      else {
+
+        var counter = min;
+        var rowD = 0;
+
+
+        // if at the edge of matrix
+        if ((min + 1) % 5 == 0 || minDistanceFromEdge > maxDistanceFromEdge) {
+          /* loop till the desired column is reached */
+          while (Math.abs(counter - max) % 5 != 0) { counter--; rowD--; }
+        }
+        else {
+          /* loop till the desired column is reached */
+          while (Math.abs(counter - max) % 5 != 0) { counter++; rowD++; }
+        }
+
+        if (letterPosition1 == min) {
+          tempString += matrix[letterPosition1 + rowD];
+          tempString += matrix[letterPosition2 - rowD];
+        }
+        else {
+          tempString += matrix[letterPosition1 - rowD];
+          tempString += matrix[letterPosition2 + rowD];
+        }
+      }
+
+      decryptedArray.push(tempString);
+      tempString = "";
     }
-
-    document.getElementById("decT").innerHTML =
-                        decryptedArray.toString().replace(/,/ig, " ");
-
   }
+
+  document.getElementById("decT").innerHTML =
+    decryptedArray.toString().replace(/,/ig, " ");
+
+}
