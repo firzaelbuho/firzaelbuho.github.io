@@ -1,0 +1,1 @@
+alert(sessionStorage.getItem("key"))
