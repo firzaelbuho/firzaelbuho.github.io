@@ -1,0 +1,841 @@
+[
+    {
+        "id": 1,
+        "name": "Miyazono Kaori",
+        "series": "Yoiur Lie in April",
+        "pict": "p1",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 2,
+        "name": "Arima Kousei",
+        "series": "Your Lie in April",
+        "pict": "p2",
+        "artist": "NN"
+    },
+    {
+        "id": 3,
+        "name": "Hishiro Chizuru",
+        "series": "ReLife",
+        "pict": "p3",
+        "artist": "MaltyCrab"
+    },
+    {
+        "id": 4,
+        "name": "Kaizaki Arata",
+        "series": "ReLife",
+        "pict": "p4",
+        "artist": "AlfredoRM"
+    },
+    {
+        "id": 5,
+        "name": "Light Yagami",
+        "series": "Death Note",
+        "pict": "p5",
+        "artist": "Reverendtundra"
+    },
+    {
+        "id": 6,
+        "name": "L",
+        "series": "Death Note",
+        "pict": "p6",
+        "artist": "lucidixp"
+    },
+    {
+        "id": 7,
+        "name": "Okabe Rintarou",
+        "series": "Steins Gate",
+        "pict": "p7",
+        "artist": "SykotixUK"
+    },
+    {
+        "id": 8,
+        "name": "Makise Kurisu",
+        "series": "Steins Gate",
+        "pict": "p8",
+        "artist": "chrisfch"
+    },
+    {
+        "id": 9,
+        "name": "Edward Elric",
+        "series": "Fullmetal Alchemist",
+        "pict": "p9",
+        "artist": "ExLu"
+    },
+    {
+        "id": 10,
+        "name": "Alphonse Elric",
+        "series": "Fullmetal Alchemist",
+        "pict": "p10",
+        "artist": "tonyp2121"
+    },
+    {
+        "id": 11,
+        "name": "Roy Mustang",
+        "series": "Fullmetal Alchemist",
+        "pict": "p11",
+        "artist": "Hailstone294"
+    },
+    {
+        "id": 12,
+        "name": "King Bradley",
+        "series": "Fullmetal Alchemist",
+        "pict": "p12",
+        "artist": "greenmaple17"
+    },
+    {
+        "id": 13,
+        "name": "Levi Ackerman",
+        "series": "Attsck on Titan",
+        "pict": "p13",
+        "artist": "slezzy7"
+    },
+    {
+        "id": 14,
+        "name": "Mikasa Ackerman",
+        "series": "Attsck on Titan",
+        "pict": "p14",
+        "artist": "NN"
+    },
+    {
+        "id": 15,
+        "name": "Armin Arlelt",
+        "series": "Attsck on Titan",
+        "pict": "p15",
+        "artist": "greenmaple17"
+    },
+    {
+        "id": 16,
+        "name": "Shimura Shinpachi",
+        "series": "Gintama",
+        "pict": "p16",
+        "artist": "genmapple17"
+    },
+    {
+        "id": 17,
+        "name": "Sakata Gintoki",
+        "series": "Gintama",
+        "pict": "p17",
+        "artist": "goodfon"
+    },
+    {
+        "id": 18,
+        "name": "Kagura",
+        "series": "Gintama",
+        "pict": "p18",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 19,
+        "name": "Kirisaki Chitoge",
+        "series": "Nisekoi",
+        "pict": "p19",
+        "artist": "NN"
+    },
+    {
+        "id": 20,
+        "name": "Kosaki Onodera",
+        "series": "Nisekoi",
+        "pict": "p20",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 21,
+        "name": "Meliodas",
+        "series": "Seven Deadly Sins",
+        "pict": "p21",
+        "artist": "BellaAderton"
+    },
+    {
+        "id": 22,
+        "name": "Elizabeth",
+        "series": "Seven Deadly Sins",
+        "pict": "p22"
+    },
+    {
+        "id": 23,
+        "name": "Meiko Honma",
+        "series": "Anohana",
+        "pict": "p23",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 24,
+        "name": "Erwin Smith",
+        "series": "Attack on Titan",
+        "pict": "p24",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 25,
+        "name": "Eren Yeager",
+        "series": "Attack on Titan",
+        "pict": "p25",
+        "artist": "NN"
+    },
+    {
+        "id": 26,
+        "name": "Todoroki Shoto",
+        "series": "My Hero Academia",
+        "pict": "p26",
+        "artist": "uhdpaper"
+    },
+    {
+        "id": 27,
+        "name": "Allmight",
+        "series": "My Hero Academia",
+        "pict": "p27",
+        "artist": "uhdpixel"
+    },
+    {
+        "id": 28,
+        "name": "Midoriya Izuku",
+        "series": "My Hero Academia",
+        "pict": "p28",
+        "artist": "Chrisfch"
+    },
+    {
+        "id": 29,
+        "name": "Katsuki Bakugo",
+        "series": "My Hero Academia",
+        "pict": "p29",
+        "artist": "NN"
+    },
+    {
+        "id": 30,
+        "name": "Uchiha Madara",
+        "series": "Naruto",
+        "pict": "p30",
+        "artist": "NN"
+    },
+    {
+        "id": 31,
+        "name": "Uzumaki Naruto",
+        "series": "Naruto",
+        "pict": "p31",
+        "artist": "wallpaperflre"
+    },
+    {
+        "id": 32,
+        "name": "Hatake Kakashi",
+        "series": "Naruto",
+        "pict": "p32",
+        "artist": "ncoll36"
+    },
+    {
+        "id": 33,
+        "name": "Hyuuga Neji",
+        "series": "Naruto",
+        "pict": "p33",
+        "artist": "FikriMochizou"
+    },
+    {
+        "id": 34,
+        "name": "Nara Shikamaru",
+        "series": "Naruto",
+        "pict": "p34",
+        "artist": "NN"
+    },
+    {
+        "id": 35,
+        "name": "Namikaze Minato",
+        "series": "Naruto",
+        "pict": "p35",
+        "artist": "dSolitude"
+    },
+    {
+        "id": 36,
+        "name": "Killer Bee",
+        "series": "Naruto",
+        "pict": "p36",
+        "artist": "wallpaperflare"
+    },
+    {
+        "id": 37,
+        "name": "Haruno Sakura",
+        "series": "Naruto",
+        "pict": "p37",
+        "artist": "FikriMochizou"
+    },
+    {
+        "id": 38,
+        "name": "Uchiha Sasuke",
+        "series": "Naruto",
+        "pict": "p38",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 39,
+        "name": "Hyuuga Hinata",
+        "series": "Naruto",
+        "pict": "p39",
+        "artist": "NN"
+    },
+    {
+        "id": 40,
+        "name": "Gaara",
+        "series": "Naruto",
+        "pict": "p40",
+        "artist": "douglaaz"
+    },
+    {
+        "id": 41,
+        "name": "Sato Kazuma",
+        "series": "Konosuba",
+        "pict": "p41",
+        "artist": "NN"
+    },
+    {
+        "id": 42,
+        "name": "Aqua",
+        "series": "Konosuba",
+        "pict": "p42",
+        "artist": "wallhere"
+    },
+    {
+        "id": 43,
+        "name": "Darkness",
+        "series": "Konosuba",
+        "pict": "p43",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 44,
+        "name": "Uchiha Itachi",
+        "series": "Naruto",
+        "pict": "p44",
+        "artist": "slezzy7"
+    },
+    {
+        "id": 45,
+        "name": "Kusakabe Shinra",
+        "series": "Fire Force",
+        "pict": "p45",
+        "artist": "Zunnno"
+    },
+    {
+        "id": 46,
+        "name": "Trunks",
+        "series": "Dragon Ball",
+        "pict": "p46",
+        "artist": "NN"
+    },
+    {
+        "id": 47,
+        "name": "Portgas D Ace",
+        "series": "One Piece",
+        "pict": "p47",
+        "artist": "MrRobotboy"
+    },
+    {
+        "id": 48,
+        "name": "Seijuro Akashi",
+        "series": "Kuroko no Basket",
+        "pict": "p48",
+        "artist": "Klikster"
+    },
+    {
+        "id": 49,
+        "name": "Asta",
+        "series": "Black Clover",
+        "pict": "p49",
+        "artist": "NN"
+    },
+    {
+        "id": 50,
+        "name": "Ban",
+        "series": "Seven Deadly Sins",
+        "pict": "p50",
+        "artist": "wallpapersafari"
+    },
+    {
+        "id": 51,
+        "name": "Boa Hancook",
+        "series": "One Piece",
+        "pict": "p51",
+        "artist": "Aho1225"
+    },
+    {
+        "id": 52,
+        "name": "Uzumaki Boruto",
+        "series": "Naruto",
+        "pict": "p52",
+        "artist": "NN"
+    },
+    {
+        "id": 53,
+        "name": "Chihiro Ogino",
+        "series": "Spirited Away",
+        "pict": "p53",
+        "artist": "NifgtInDarkness29"
+    },
+    {
+        "id": 54,
+        "name": "Envy",
+        "series": "Fullmetal Alchemist",
+        "pict": "p54",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 55,
+        "name": "Erza Scarlet",
+        "series": "Fairy Tail",
+        "pict": "p55",
+        "artist": "NN"
+    },
+    {
+        "id": 56,
+        "name": "Chitanda Eru",
+        "series": "Hyouka",
+        "pict": "p56",
+        "artist": "sybercyber"
+    },
+    {
+        "id": 57,
+        "name": "Gon Freecss",
+        "series": "Hunter X Hunter",
+        "pict": "p57",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 58,
+        "name": "Shinichi Kudo",
+        "series": "Detective Conan",
+        "pict": "p58",
+        "artist": "siawsharingan"
+    },
+    {
+        "id": 59,
+        "name": "Ishigami Senku",
+        "series": "Dr. Stone",
+        "pict": "p59",
+        "artist": "Ryuzaky-kun"
+    },
+    {
+        "id": 60,
+        "name": "Saitama",
+        "series": "One Punch Man",
+        "pict": "p60",
+        "artist": "NN"
+    },
+    {
+        "id": 61,
+        "name": "Ryuk",
+        "series": "Death Note",
+        "pict": "p61",
+        "artist": "wallpaperflare"
+    },
+    {
+        "id": 62,
+        "name": "Saiki Kusuo",
+        "series": "Saiki Kusuo no Psi Nan",
+        "pict": "p62",
+        "artist": "agenFneptunus"
+    },
+    {
+        "id": 63,
+        "name": "Senju Tsunade",
+        "series": "Naruto",
+        "pict": "p63",
+        "artist": "raketa3"
+    },
+    {
+        "id": 64,
+        "name": "Vegeta",
+        "series": "Dragon Ball",
+        "pict": "p64",
+        "artist": "wallpaperaccess"
+    },
+    {
+        "id": 65,
+        "name": "Yui Yuigahama",
+        "series": "Oregairu",
+        "pict": "p65",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 66,
+        "name": "Violet Evergarden",
+        "series": "Violet Evergarden",
+        "pict": "p66",
+        "artist": "wallpaperflame"
+    },
+    {
+        "id": 67,
+        "name": "Yuu Otosaka",
+        "series": "Charlotte",
+        "pict": "p67",
+        "artist": "NN"
+    },
+    {
+        "id": 68,
+        "name": "Kotaro Katsura",
+        "series": "Gintama",
+        "pict": "p68",
+        "artist": "Awesomeness333"
+    },
+    {
+        "id": 69,
+        "name": "Yuuki Asuna",
+        "series": "Sword Art Online",
+        "pict": "p69",
+        "artist": "matsumayu"
+    },
+    {
+        "id": 70,
+        "name": "Tachibana Kanade",
+        "series": "Angel Beats",
+        "pict": "p70",
+        "artist": "NN"
+    },
+    {
+        "id": 71,
+        "name": "Kirigaya Kazuto",
+        "series": "Sword Art Online",
+        "pict": "p71",
+        "artist": "alphacoders"
+    },
+    {
+        "id": 72,
+        "name": "Shinichi Izumi",
+        "series": "Parasyte",
+        "pict": "p72",
+        "artist": "Martianz-Art"
+    },
+    {
+        "id": 73,
+        "name": "Shiro",
+        "series": "No Game No Life",
+        "pict": "p73",
+        "artist": "wallhere"
+    },
+    {
+        "id": 74,
+        "name": "Kirishima Touka",
+        "series": "Tokyo Ghoul",
+        "pict": "p74",
+        "artist": "Darkfate17"
+    },
+    {
+        "id": 75,
+        "name": "Ken Kaneki",
+        "series": "Tokyo Ghoul",
+        "pict": "p75",
+        "artist": "NN"
+    },
+    {
+        "id": 76,
+        "name": "Kamado Tanjirou",
+        "series": "Demon Slayer",
+        "pict": "p76",
+        "artist": "wallpapercave"
+    },
+    {
+        "id": 77,
+        "name": "Kamado Nezuko",
+        "series": "Demon Slayer",
+        "pict": "p77",
+        "artist": "uhdpaper"
+    },
+    {
+        "id": 78,
+        "name": "Mash Kyrelight",
+        "series": "Fate",
+        "pict": "p78",
+        "artist": "SteveCharge"
+    },
+    {
+        "id": 79,
+        "name": "Arima Kishou",
+        "series": "Tokyo Ghoul",
+        "pict": "p79",
+        "artist": "JUEGZI"
+    },
+    {
+        "id": 80,
+        "name": "Korosensei",
+        "series": "Assasination Classroom",
+        "pict": "p80",
+        "artist": "Nur Alif SiDoel"
+    },
+    {
+        "id": 81,
+        "name": "Isla",
+        "series": "Plastic Memories",
+        "pict": "p81",
+        "artist": "Lucifer012"
+    },
+    {
+        "id": 82,
+        "name": "Ikoma",
+        "series": "Kabaneri of The Iron Fortress",
+        "pict": "p82",
+        "artist": "Lucifer012"
+    },
+    {
+        "id": 83,
+        "name": "Van Hohenheim",
+        "series": "Fullmetal Alchemist",
+        "pict": "p83",
+        "artist": "Abesario25"
+    },
+    {
+        "id": 84,
+        "name": "Handa Seishu",
+        "series": "Barakamon",
+        "pict": "p84",
+        "artist": "NN"
+    },
+    {
+        "id": 85,
+        "name": "Son Goku",
+        "series": "Dragon Ball",
+        "pict": "p85",
+        "artist": "UzumakiAsh"
+    },
+    {
+        "id": 86,
+        "name": "Gluttony",
+        "series": "Fullmetal Alchemist",
+        "pict": "p86",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 87,
+        "name": "Genos",
+        "series": "One Punch Man",
+        "pict": "p87",
+        "artist": "Abesario25"
+    },
+    {
+        "id": 88,
+        "name": "Shoyo Hinata",
+        "series": "Haikyuu",
+        "pict": "p88",
+        "artist": "?"
+    },
+    {
+        "id": 89,
+        "name": "Killua Zoldyck",
+        "series": "Hunter X Hunter",
+        "pict": "p89",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 90,
+        "name": "Lelouch",
+        "series": "Code Geass",
+        "pict": "p90",
+        "artist": "Lucifer012"
+    },
+    {
+        "id": 91,
+        "name": "Lucy Heartfilia",
+        "series": "Fairy Tail",
+        "pict": "p91",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 92,
+        "name": "Monkey D Luffy",
+        "series": "One Piece",
+        "pict": "p92",
+        "artist": "Lucifer012"
+    },
+    {
+        "id": 93,
+        "name": "Lust",
+        "series": "Fullmetal Alchemist",
+        "pict": "p93",
+        "artist": "NN"
+    },
+    {
+        "id": 94,
+        "name": "Miyamizu Mitsuha",
+        "series": "Your Name",
+        "pict": "p94",
+        "artist": "natsuaisyah"
+    },
+    {
+        "id": 95,
+        "name": "Natsu Dragneel",
+        "series": "Fairy Tail",
+        "pict": "p95",
+        "artist": "THEsenpaiRYAN"
+    },
+    {
+        "id": 96,
+        "name": "Ozora Tsubasa",
+        "series": "Captain Tsubasa",
+        "pict": "p96",
+        "artist": "akubelumganteng"
+    },
+    {
+        "id": 97,
+        "name": "Ran Mouri",
+        "series": "Detective Conan",
+        "pict": "p97",
+        "artist": "hanasaki-ran"
+    },
+    {
+        "id": 98,
+        "name": "Rem",
+        "series": "Re:Zero",
+        "pict": "p98",
+        "artist": "NN"
+    },
+    {
+        "id": 99,
+        "name": "Escanor",
+        "series": "Seven Deadly Sins",
+        "pict": "p99",
+        "artist": "alphacoders"
+    },
+    {
+        "id": 100,
+        "name": "Togata Mirio",
+        "series": "My Hero Academia",
+        "pict": "p100",
+        "artist": "scoolharis"
+    },
+    {
+        "id": 101,
+        "name": "Asada Sinon",
+        "series": "Sword Art Online",
+        "pict": "p101",
+        "artist": "greenmapple17"
+    },
+    {
+        "id": 102,
+        "name": "Reiner Braun",
+        "series": "Attack on Titan",
+        "pict": "p102",
+        "artist": "julz214"
+    },
+    {
+        "id": 103,
+        "name": "Rias Gtremory",
+        "series": "Highschool DXD",
+        "pict": "p103",
+        "artist": "Lucifer012"
+    },
+    {
+        "id": 104,
+        "name": "Yuzuriha Inori",
+        "series": "Guilty Crown",
+        "pict": "p104",
+        "artist": "dnerox"
+    },
+    {
+        "id": 105,
+        "name": "Diane",
+        "series": "Seven Deadly Sins",
+        "pict": "p105",
+        "artist": "thecursedchuro"
+    },
+    {
+        "id": 106,
+        "name": "Tohsaka Rin",
+        "series": "Fate",
+        "pict": "p106",
+        "artist": "Krukmeister"
+    },
+    {
+        "id": 107,
+        "name": "Emilia",
+        "series": "Re:Zero",
+        "pict": "p107",
+        "artist": "MrTapoz-kun"
+    },
+    {
+        "id": 108,
+        "name": "Tokisaki Kurumi",
+        "series": "Date A Life",
+        "pict": "p108",
+        "artist": "max028"
+    },
+    {
+        "id": 109,
+        "name": "Izumi Sagiri",
+        "series": "Eromanga Sensei",
+        "pict": "p109",
+        "artist": "RizalExe"
+    },
+    {
+        "id": 110,
+        "name": "Nishikino Maki",
+        "series": "Love Live",
+        "pict": "p110",
+        "artist": "Fransiskus Febryan"
+    },
+    {
+        "id": 111,
+        "name": "Nao Tomori",
+        "series": "Charlotte",
+        "pict": "p111",
+        "artist": "FakhriNH"
+    },
+    {
+        "id": 112,
+        "name": "Yukino Yukinoshita",
+        "series": "Oregairu",
+        "pict": "p112",
+        "artist": "ExLu"
+    },
+    {
+        "id": 113,
+        "name": "Raku Ichijou",
+        "series": "Nisekoi",
+        "pict": "p113",
+        "artist": "Abesario25"
+    },
+    {
+        "id": 114,
+        "name": "Jintan Yadomi",
+        "series": "Anohana",
+        "pict": "p114",
+        "artist": "darkprinceah"
+    },
+    {
+        "id": 115,
+        "name": "Kariu Rena",
+        "series": "ReLife",
+        "pict": "p115",
+        "artist": "Rendracula"
+    },
+    {
+        "id": 116,
+        "name": "Kibutsuji Muzan",
+        "series": "Demon Slayer",
+        "pict": "p116",
+        "artist": "kurijezatives"
+    },
+    {
+        "id": 117,
+        "name": "Sanji Vinsmoke",
+        "series": "One Piece",
+        "pict": "p117",
+        "artist": "wallpsprtaccess"
+    },
+    {
+        "id": 118,
+        "name": "Orochimaru",
+        "series": "Naruto",
+        "pict": "p118",
+        "artist": "zaneibrahime"
+    },
+    {
+        "id": 119,
+        "name": "Takasugi Shinsuke",
+        "series": "Gintama",
+        "pict": "p119",
+        "artist": "wallpaperbetter"
+    },
+    {
+        "id": 120,
+        "name": "Pain",
+        "series": "Naruto",
+        "pict": "p120",
+        "artist": "Darkfate17"
+    }
+]
