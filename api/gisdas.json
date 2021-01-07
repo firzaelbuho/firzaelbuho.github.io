@@ -10,8 +10,9 @@
         "kemiringan": 0.0021,
         "latitude": -6.89507920779603,
         "longitude": 109.346951876763,
-        "statusrawanBanjirlongsorDll": "Rawan banjir",
-        "kota": "Pemalang-Tegal",
+        "status": "Rawan banjir",
+        "urlgambar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fdesagongseng%2Fstatus%2F830349320327041024&psig=AOvVaw0DNhEgXzQwSrUvLk8rq2Kn&ust=1610062646715000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCx2vW8iO4CFQAAAAAdAAAAABAD",
+        "kota": "Pemalang",
         "kecamatan": "Pemalang"
     },
     {
@@ -23,10 +24,11 @@
         "luaskm2": "41,56",
         "debitHilirM3s": 280,
         "kemiringan": 0.001,
- 	"latitude": -6.89507920179603,
-        "longitude": 109.446951876763,
-        "statusrawanBanjirlongsorDll": "Rawan banjir",
-        "kota": "Pemalang-Pkl",
+        "latitude": -6.899762,
+        "longitude": 109.677769,
+        "status": "Rawan banjir",
+        "urlgambar": "https://2.bp.blogspot.com/-aUJTsdtTNaY/VcnxJHWayOI/AAAAAAABISY/RlAKUJ_C0aY/s1600/sungai.png",
+        "kota": "Pemalang",
         "kecamatan": "Comal"
     },
     {
@@ -40,7 +42,8 @@
         "kemiringan": 0.0013,
         "latitude": -6.8617957191,
         "longitude": 109.3756010274,
-        "statusrawanBanjirlongsorDll": "Rawan banjir",
+        "status": "Rawan banjir",
+        "urlgambar": "https://1.bp.blogspot.com/_KHlXExaqYuk/S_AkOft1qLI/AAAAAAAACNw/t-89PmrrpX0/w1200-h630-p-k-no-nu/3145528p.jpg",
         "kota": "Pemalang",
         "kecamatan": "Pemalang"
     },
@@ -50,9 +53,13 @@
         "kategori": "DAS",
         "pengelola": "DINAS PSDA PROVINSI JATENG",
         "panjang": "43,5 km",
+        "luaskm2": "-",
+        "debitHilirM3s": "-",
+        "kemiringan": "-",
         "latitude": -6.8977787,
         "longitude": 109.4047677,
-        "statusrawanBanjirlongsorDll": "Rawan banjir",
+        "status": "Rawan banjir",
+        "urlgambar": "https://i.ytimg.com/vi/RJyoDsyVG5g/hqdefault.jpg",
         "kota": "Pemalang",
         "kecamatan": "Taman"
     },
@@ -67,7 +74,8 @@
         "kemiringan": 0.0008,
         "latitude": -6.8620626,
         "longitude": 109.4602757,
-        "statusrawanBanjirlongsorDll": "Rawan banjir",
+        "status": "Rawan banjir",
+        "urlgambar": "https://kebumen2013.com/wp-content/gallery/desa-loning-sadang-wetan-kebumen-surganya-dunia/sungai-berbatu-di-desa-loning-sadang-kebumen.jpg",
         "kota": "Pemalang ",
         "kecamatan": "Petarukan"
     },
@@ -82,7 +90,8 @@
         "kemiringan": 0.0015,
         "latitude": -6.84233366580693,
         "longitude": 109.445650230964,
-        "statusrawanBanjirlongsorDll": "Rawan banjir",
+        "status": "Rawan banjir",
+        "urlgambar": "https://www.google.com/url?sa=i&url=http%3A%2F%2Finfopublik.id%2Fgaleri%2Ffoto%2Fdetail%2F79040%3Fvideo%3D&psig=AOvVaw3_oQPduhKTMX3cWcadqIAL&ust=1610062478635000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOijwKS8iO4CFQAAAAAdAAAAABAP",
         "kota": "Pemalang",
         "kecamatan": "Pemalang"
     },
@@ -97,7 +106,8 @@
         "kemiringan": 0.0013,
         "latitude": -6.90212239786542,
         "longitude": 109.525919074916,
-        "statusrawanBanjirlongsorDll": "Rawan Banjir",
+        "status": "Rawan Banjir",
+        "urlgambar": "https://assets-a1.kompasiana.com/items/album/2015/10/18/img20150906140118-5622cccfeaafbd1d0f15a27e.jpg",
         "kota": "Pemalang",
         "kecamatan": "Comal"
     }
