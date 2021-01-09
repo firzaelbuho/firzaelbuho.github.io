@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <script>
+        L_NO_TOUCH = false;
+        L_DISABLE_3D = false;
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet"
+        href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+
+
+</head>
+
+<body>
+
+    <div class="folium-map" id="map"></div>
+
+
+    <img width="400px" id="float_image_fbfe4b9ec0934e3faa7c67e77e9ae670" alt="float_image" src="img/judul.png"
+        style="z-index: 999999">
+    </img>
+
+
+    <img width="100px" id="float_image_46e67336585e4951b6aa9d9425916df4" alt="float_image" src="img/pml.png"
+        style="z-index: 999999">
+    </img>
+
+    <!-- Legend -->
+
+    <div id="legend">
+        <br>
+        <table style="margin-left: 32px;">
+            <tr>
+                <td>
+                    <img src="img/s.png" width="32px" height="auto" />
+                </td>
+                <td>:</td>
+                <td>
+                    <p>Daerah Aliran Sungai</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="img/b.png" width="32px" height="auto" />
+                </td>
+                <td>:</td>
+                <td>
+                    <p>Rawan Banjir</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="img/l.png" width="32px" height="auto" />
+                </td>
+                <td>:</td>
+                <td>
+                    <p>Rawan Longsor</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
