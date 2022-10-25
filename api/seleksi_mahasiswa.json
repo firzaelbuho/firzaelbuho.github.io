@@ -1,0 +1,28 @@
+[
+
+        {
+            "id_prodi"  :   "xxxxxx",
+            "tahun"  :   "2021",
+            "daya_tampung"  :   "55",
+            "jml_pendaftar" :   "100",
+            "jml_lolos"     :   "50",
+            "jml_mhs_reg"   :   "45",
+            "jml_mhs_transfer"   :   "45",
+            "jml_mhs_aktif_reg"   :   "45",
+            "jml_mhs_aktif_transfer"   :   "45"
+
+        },
+        {
+            "id_prodi"  :   "xxxxxx",
+            "tahun"  :   "2022",
+            "daya_tampung"  :   "55",
+            "jml_pendaftar" :   "100",
+            "jml_lolos"     :   "50",
+            "jml_mhs_reg"   :   "45",
+            "jml_mhs_transfer"   :   "5",
+            "jml_mhs_aktif_reg"   :   "45",
+            "jml_mhs_aktif_transfer"   :   "5"
+
+        }
+
+]

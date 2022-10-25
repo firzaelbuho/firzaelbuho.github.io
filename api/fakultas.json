@@ -1,0 +1,151 @@
+{
+  "status": 200,
+  "error": false,
+  "message": "Sukses list data",
+  "data": [
+    {
+      "kode": "1",
+      "nama": "Ilmu Pendidikan",
+      "nama_singkat": "FIP",
+      "nama_ktm": "Ilmu Pendidikan",
+      "nama_en": "Education",
+      "str_alamat": "Ilmu Pendidikan\r\nUniversitas Negeri Semarang\r\nGedung A2, Kampus Sekaran Gunungpati Semarang - 50229 \r\nTelp/Fax : (024)8508019\r\nWebsite : http://fip.unnes.ac.id",
+      "kop_alamat": "Gedung Dekanat, Kampus Sekaran, Gunungpati, Semarang 50229",
+      "kop_kontak": "Telepon +6224-86008700 Ext. 100, Faksimile +6224-8508019",
+      "kop_laman": "Laman: http://fip.unnes.ac.id, surel: fip@mail.unnes.ac.id",
+      "kode_baru": "11"
+    },
+    {
+      "kode": "2",
+      "nama": "Bahasa dan Seni",
+      "nama_singkat": "FBS",
+      "nama_ktm": "Bahasa dan Seni",
+      "nama_en": "Languages and Arts",
+      "str_alamat": "Dekanat FBS ,Gd.B0\r\nKampus Sekaran Gunungpati\r\nSemarang\r\nPhone/Fax : (024) 8008700. \r\nEmail : fbs@mail.unnes.ac.id",
+      "kop_alamat": "Gedung B,Kampus Sekaran,Gunungpati, Semarang-50229",
+      "kop_kontak": "Telepon: (024) 86008700 ext. 600, Faksimile: (024) 8508010",
+      "kop_laman": "Laman   : http://fbs.unnes.ac.id/, Email: fbs@mail.unnes.ac.id",
+      "kode_baru": "12"
+    },
+    {
+      "kode": "3",
+      "nama": "Ilmu Sosial",
+      "nama_singkat": "FIS",
+      "nama_ktm": "Ilmu Sosial",
+      "nama_en": "Social Science",
+      "str_alamat": "Gedung C7 Lt. 2 \r\nKampus Unnes Sekaran Gunungpati Semarang 50229\r\nTelp 024 8508006 - Fax 024 8508006 ext 200 \r\nemail : fis@mail.unnes.ac.id",
+      "kop_alamat": "Gedung C.7 Kampus Sekaran, Gunungpati, Semarang 50229",
+      "kop_kontak": "Telepon 024-8508006 / Faksimile 024-8508006 Ext. 12",
+      "kop_laman": "Laman: http://fis.unnes.ac.id, Surel: fis@mail.unnes.ac.id",
+      "kode_baru": "13"
+    },
+    {
+      "kode": "4",
+      "nama": "Matematika dan Ilmu Pengetahuan Alam",
+      "nama_singkat": "FMIPA",
+      "nama_ktm": "Matematika dan I P A",
+      "nama_en": "Mathematics and Natural Science",
+      "str_alamat": "Gedung D12 Dekanat FMIPA Unnes, \r\nKampus Unnes Sekaran, \r\nGunungpati Semarang 50229\r\nTelp     : (024) 8508112\r\nEmail  : mipa@mail.unnes.ac.id",
+      "kop_alamat": "Gedung D12, Kampus Sekaran Gunungpati Semarang 50229",
+      "kop_kontak": "Telepon 024-86008700 Ext.400 / Faksimile 024-8508093",
+      "kop_laman": "Laman: http://mipa.unnes.ac.id, Surel: mipa@mail.unnes.ac.id",
+      "kode_baru": "14"
+    },
+    {
+      "kode": "5",
+      "nama": "Teknik",
+      "nama_singkat": "FT",
+      "nama_ktm": "Teknik",
+      "nama_en": "Engineering",
+      "str_alamat": "Deanery Building of Engineering Faculty\r\nUniversitas Negeri Semarang \r\nKampus Sekaran, Gunungpati, Semarang 50229 \r\nPhone/Fax : (024) 8508101/(024) 86008700 ext 500 - (024) 8508009\r\nEmail : ft@mail.unnes.ac.id, Website : http://ft.unnes.ac.id",
+      "kop_alamat": "Gedung Dekanat FT, Kampus Sekaran, Gunungpati, Semarang - 50229",
+      "kop_kontak": "Telepon (024) 8508101 / (024) 86008700 ext 500, Faksimile (024) 8508009",
+      "kop_laman": "Laman: http://ft.unnes.ac.id, surel: ft@mail.unnes.ac.id",
+      "kode_baru": "15"
+    },
+    {
+      "kode": "6",
+      "nama": "Ilmu Keolahragaan",
+      "nama_singkat": "FIK",
+      "nama_ktm": "Ilmu Keolahragaan",
+      "nama_en": "Sport Science",
+      "str_alamat": "Fakultas Ilmu Keolahragaan\r\nUniversitas Negeri Semarang \r\nGedung Dekanat FIK Kampus Sekaran Gunungpati Semarang - 50229 \r\nTelp./Fax : (024) 8508007 \r\nWebsite : http://fik.unnes.ac.id",
+      "kop_alamat": "Gedung Dekanat FIK Kampus UNNES Sekaran Gunungpati Semarang 50229",
+      "kop_kontak": "Telepon +6224-8508007, Faksimile +6224-8508007",
+      "kop_laman": "Laman: http://fik.unnes.ac.id, surel: fik@mail.unnes.ac.id",
+      "kode_baru": "16"
+    },
+    {
+      "kode": "7",
+      "nama": "Ekonomi",
+      "nama_singkat": "FE",
+      "nama_ktm": "Ekonomi",
+      "nama_en": "Economics",
+      "str_alamat": "Fakultas Ilmu Ekonomi\r\nUniversitas Negeri Semarang\r\nGedung L1, Kampus Sekaran Gunungpati Semarang - 50229 \r\nTelp/Fax : (024)8508015 \r\nWebsite : http://fe.unnes.ac.id",
+      "kop_alamat": "Gedung L1 Kampus Sekaran, Gunungpati, Semarang 50229 ",
+      "kop_kontak": "Telepon 024-86008700 Ext 700, Fax : 024 8508015",
+      "kop_laman": "Laman: http://fe.unnes.ac.id, Surel: fe@mail.unnes.ac.id",
+      "kode_baru": "17"
+    },
+    {
+      "kode": "8",
+      "nama": "Hukum",
+      "nama_singkat": "FH",
+      "nama_ktm": "Hukum",
+      "nama_en": "Law",
+      "str_alamat": "Gedung K \r\nFakultas Hukum UNNES \r\nKampus Sekaran Gunungpati Semarang 50229 \r\nTelp/Fax. (024) 86008700 Ext. 800 - (024) 8507891\r\nLaman : http://fh.unnes.ac.id  Surel : fh@mail.unnes.ac.id",
+      "kop_alamat": "Gedung K, Kampus Sekaran Gunungpati Semarang 50229",
+      "kop_kontak": "Telepon (024) 86008700 Ext. 800",
+      "kop_laman": "Laman: https://fh.unnes.ac.id, Surel: fh@mail.unnes.ac.id",
+      "kode_baru": "18"
+    },
+    {
+      "kode": "99",
+      "nama": "Pascasarjana",
+      "nama_singkat": "PPs",
+      "nama_ktm": "Pascasarjana",
+      "nama_en": "Postgraduate",
+      "str_alamat": null,
+      "kop_alamat": "Gedung A,  Kampus Pascasarjana, Jl. Kelud Utara III, Semarang - 50237",
+      "kop_kontak": "Telepon: +6224-86008700 ext. 900  Fax. +6224-8449969",
+      "kop_laman": "Laman: http://pps.unnes.ac.id, surel: pascasarjana@mail.unnes.ac.id",
+      "kode_baru": "99"
+    },
+    {
+      "kode": "9",
+      "nama": "Kedokteran",
+      "nama_singkat": "FK",
+      "nama_ktm": null,
+      "nama_en": "",
+      "str_alamat": null,
+      "kop_alamat": null,
+      "kop_kontak": null,
+      "kop_laman": null,
+      "kode_baru": "0"
+    },
+    {
+      "kode": "10",
+      "nama": "Psikologi",
+      "nama_singkat": "FPsi",
+      "nama_ktm": null,
+      "nama_en": "",
+      "str_alamat": null,
+      "kop_alamat": null,
+      "kop_kontak": null,
+      "kop_laman": null,
+      "kode_baru": "0"
+    },
+    {
+      "kode": "11",
+      "nama": "Ilmu Komputer",
+      "nama_singkat": "Fasilkom",
+      "nama_ktm": null,
+      "nama_en": "",
+      "str_alamat": null,
+      "kop_alamat": null,
+      "kop_kontak": null,
+      "kop_laman": null,
+      "kode_baru": "0"
+    }
+  ]
+}

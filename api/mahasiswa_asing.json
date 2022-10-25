@@ -1,0 +1,19 @@
+[
+
+        {
+            "id_prodi"  :   "xxxxxx",
+            "mhs_aktif_ts"  :   "60",
+            "mhs_aktif_ts1"  :   "60",
+            "mhs_aktif_ts2"  :   "60",
+
+            "mhs_asing_ft_ts"  :   "60",
+            "mhs_asing_ft_ts1"  :   "60",
+            "mhs_asing_ft_ts2"  :   "60",
+
+            "mhs_asing_pt_ts"  :   "60",
+            "mhs_asing_pt_ts1"  :   "60",
+            "mhs_asing_pt_ts2"  :   "60"   
+
+        }
+
+]
