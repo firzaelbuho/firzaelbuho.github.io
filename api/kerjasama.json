@@ -1,0 +1,22 @@
+[
+
+    {
+        "lembaga"  :   "PT X",
+        "bidang"  :   "Pendidikan",
+        "tingkat"  :   "Nasional",
+        "judul" :   "Kerjasama 1",
+        "mafaat"     :   "mafaat 1",
+        "bukti"   :   "123"
+
+    },
+    {
+        "lembaga"  :   "PT Y",
+        "bidang"  :   "Pendidikan",
+        "tingkat"  :   "Nasional",
+        "judul" :   "Kerjasama 1",
+        "mafaat"     :   "mafaat 1",
+        "bukti"   :   "123"
+
+    }
+
+]

@@ -1,0 +1,23 @@
+[
+
+    {
+        "nidn"  :   "123",
+        "nama_dosen"  :   "Eko Kurniawan",
+        "perusahaan"  :   "PT X",
+        "pendidikan"  :   "S2",
+        "bidang"  :   "pendidikan",
+        "sertifikat"  :   "1",
+        "mk_diampu"  :   "Bahasa Inggris"
+    },
+    {
+       
+        "nidn"  :   "126",
+        "nama_dosen"  :   "Ilham Kurniadi",
+        "perusahaan"  :   "PT X",
+        "pendidikan"  :   "S2",
+        "bidang"  :   "pendidikan",
+        "sertifikat"  :   "1",
+        "mk_diampu"  :   "Bahasa Inggris"
+    }
+
+]

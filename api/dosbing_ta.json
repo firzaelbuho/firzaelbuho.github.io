@@ -1,0 +1,24 @@
+[
+
+    {
+        "nidn"  :   "123",
+        "nama_dosen"  :   "Eko Kurniawan",
+        "mhs_ps_ts"  :   "10",
+        "mhs_ps_ts1"  :   "10",
+        "mhs_ps_ts2"  :   "10",
+        "mhs_ps_lain_ts"  :   "10",
+        "mhs_ps_lain_ts1"  :   "10",
+        "mhs_ps_lain_ts2"  :   "10"
+    },
+    {
+        "nidn"  :   "126",
+        "nama_dosen"  :   "Ilham Kuriadi",
+        "mhs_ps_ts"  :   "10",
+        "mhs_ps_ts1"  :   "10",
+        "mhs_ps_ts2"  :   "10",
+        "mhs_ps_lain_ts"  :   "10",
+        "mhs_ps_lain_ts1"  :   "10",
+        "mhs_ps_lain_ts2"  :   "10"
+    }
+
+]

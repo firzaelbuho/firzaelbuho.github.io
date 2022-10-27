@@ -1,0 +1,21 @@
+[
+
+    {
+        "tahun_lulus"  :   "2022",
+        "jml_lulusan"  :   "900",
+        "jml_terlacak"  :   "300",
+        "kerja_lokal" :   "70",
+        "kerja_nasional"  :   "80",
+        "kerja_internasional" :   "70"
+
+    },
+    {
+        "tahun_lulus"  :   "2021",
+        "jml_lulusan"  :   "900",
+        "jml_terlacak"  :   "300",
+        "kerja_lokal" :   "70",
+        "kerja_nasional"  :   "80",
+        "kerja_internasional" :   "70"
+    }
+
+]

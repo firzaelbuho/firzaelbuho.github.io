@@ -1,0 +1,19 @@
+[
+
+    {
+        "semester"  :   "1",
+        "kode_mk"  :   "1",
+        "ama_mk"  :   "Algoritma",
+        "kompetensi" :   "1",
+        "bobot" :   "3"
+    },
+    {
+        
+        "semester"  :   "1",
+        "kode_mk"  :   "2",
+        "ama_mk"  :   "Sistem Operasi",
+        "kompetensi" :   "1",
+        "bobot" :   "3"
+    }
+
+]

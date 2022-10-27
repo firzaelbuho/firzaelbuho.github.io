@@ -1,0 +1,21 @@
+[
+
+    {
+        "tahun_lulus"  :   "2022",
+        "jml_lulusan"  :   "900",
+        "jml_terlacak"  :   "300",
+        "relevansi_tinggi" :   "70",
+        "relevansi_sedang"  :   "80",
+        "relevansi_rendah" :   "70"
+
+    },
+    {
+        "tahun_lulus"  :   "2021",
+        "jml_lulusan"  :   "900",
+        "jml_terlacak"  :   "300",
+        "relevansi_tinggi" :   "70",
+        "relevansi_sedang"  :   "80",
+        "relevansi_rendah" :   "70"
+    }
+
+]

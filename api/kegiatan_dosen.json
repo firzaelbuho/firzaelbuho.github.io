@@ -1,0 +1,25 @@
+[
+
+    {
+        "nidn"  :   "123",
+        "nama_dosen"  :   "Eko Kurniawan",
+        "jml_kelas"  :   "10",
+        "jml_sks" :   "11",
+        "kode_mk" :   "10",
+        "nama_mk" :   "10",
+        "pertemuan_direncanakan"    :   "15",
+        "pertemuan_dihadiri"    :   "14"
+    },
+    {
+       
+        "nidn"  :   "124",
+        "nama_dosen"  :   "Sandhika Galih",
+        "jml_kelas"  :   "10",
+        "jml_sks" :   "11",
+        "kode_mk" :   "10",
+        "nama_mk" :   "10",
+        "pertemuan_direncanakan"    :   "15",
+        "pertemuan_dihadiri"    :   "14"
+    }
+
+]

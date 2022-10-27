@@ -1,0 +1,16 @@
+[
+
+    {
+        "judul"  :   "loremipsum",
+        "nama_dosen"  :   "Eko Kurniawan",
+        "nama_mk" :   "Sistem Operasi",
+        "bentuk_integrasi" :   "Praktik"
+    },
+    {
+        "judul"  :   "lorem ipsum 2",
+        "nama_dosen"  :   "Adi Kurniawan",
+        "nama_mk" :   "Algoritma",
+        "bentuk_integrasi" :   "Praktik"
+    }
+
+]

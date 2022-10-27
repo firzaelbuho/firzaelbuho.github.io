@@ -1,0 +1,19 @@
+[
+    {
+        "nidn"  :   "123",
+        "nama_dosen"  :   "Eko Kurniawan",
+        "tgl_lahir"  :   "1-1-1980",
+        "sertifikat" :   "1",
+        "jabatan" :   "Tenaga Pengajar",
+        "gelar"     :   "magister"
+    },
+    {
+        "nidn"  :   "124",
+        "nama_dosen"  :   "Sandhika Galih",
+        "tgl_lahir"  :   "1-1-1980",
+        "sertifikat" :   "1",
+        "jabatan" :   "Tenaga Pengajar",
+        "gelar"     :   "magister"
+    }
+
+]

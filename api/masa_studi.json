@@ -1,0 +1,31 @@
+[
+
+    {
+        "tahun_masuk"  :   "2017",
+        "jml_mhs_diterima"  :   "1000",
+        "lulus_ts"  :   "100",
+        "lulus_ts1"  :   "100",
+        "lulus_ts2"  :   "100",
+        "lulus_ts3"  :   "100",
+        "lulus_ts4"  :   "100",
+        "lulus_ts5"  :   "100",
+        "lulus_ts6"  :   "100",
+        "lulus_sd_ts": "900",
+        "avg_masa_studi"    :   "4"
+
+    },
+    {
+        "tahun_masuk"  :   "2018",
+        "jml_mhs_diterima"  :   "1000",
+        "lulus_ts"  :   "100",
+        "lulus_ts1"  :   "100",
+        "lulus_ts2"  :   "100",
+        "lulus_ts3"  :   "100",
+        "lulus_ts4"  :   "100",
+        "lulus_ts5"  :   "100",
+        "lulus_ts6"  :   "100",
+        "lulus_sd_ts": "900",
+        "avg_masa_studi"    :   "4"
+    }
+
+]

@@ -1,0 +1,22 @@
+[
+
+    {
+        "nidn"  :   "1123",
+        "nama_dosen"  :   "Adi Kurniawan",
+        "status"  :   "PNS",
+        "bidang"    :"Administrator",
+        "Pendidikan" :   "S1",
+        "Unit"  :   "UPPS"
+    },
+    {
+        
+       
+        "nidn"  :   "12123",
+        "nama_dosen"  :   "Adi Hidayat",
+        "status"  :   "PNS",
+        "bidang"    :"Administrator",
+        "Pendidikan" :   "S1",
+        "Unit"  :   "UPPS"
+    }
+
+]

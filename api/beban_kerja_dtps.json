@@ -1,0 +1,18 @@
+[
+
+    {
+        "nidn"  :   "123",
+        "nama_dosen"  :   "Eko Kurniawan",
+        "sks_ps"  :   "10",
+        "sks_ps_pt" :   "11",
+        "sks_pt" :   "10"
+    },
+    {
+        "nidn"  :   "124",
+        "nama_dosen"  :   "Sadhika Galih",
+        "sks_ps"  :   "10",
+        "sks_ps_pt" :   "12",
+        "sks_pt" :   "10"
+    }
+
+]

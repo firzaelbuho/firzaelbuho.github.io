@@ -1,0 +1,17 @@
+[
+
+    {
+        "nidn"  :   "123",
+        "nama"  :   "Eko Kurniawan",
+        "judul" :   "Lorem Ipsum",
+        "jml_sitasi" :   "10-10-2022"
+    },
+    {
+        
+        "nidn"  :   "126",
+        "nama_tendik"  :   "Ilham Kurniawan",
+        "judul" :   "Lorem Ipsum",
+        "jml_sitasi" :   "10-10-2022"
+    }
+
+]

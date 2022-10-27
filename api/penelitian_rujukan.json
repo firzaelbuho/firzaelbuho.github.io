@@ -1,0 +1,17 @@
+[
+
+    {
+        
+        "nama_dosen"  :   "Eko Kurniawan",
+        "tema" :   "Pendidikan",
+        "ama_mhs" :   "Ilham Aditya",
+        "judul_tesis"   :   "Lorem Ipsum"
+    },
+    {
+        "nama_dosen"  :   "Eko Kurniawan",
+        "tema" :   "Pendidikan",
+        "ama_mhs" :   "Ivan Aditya",
+        "judul_tesis"   :   "Lorem Ipsum"
+    }
+
+]
