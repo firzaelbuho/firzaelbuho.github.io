@@ -3,15 +3,17 @@
     {
         "tahun_akademik"  :   "2022",
         "jml_provinsi"  :   "10",
-        "jml_mhs_lk"  :   "Nasional",
-        "jml_mhs_pr" :   "Kerjasama 1"
+        "jml_mhs_lk"  :   "50",
+        "jml_mhs_pr" :   "50",
+        "jml_total" :   "100"
 
     },
     {
         "tahun_akademik"  :   "2021",
         "jml_provinsi"  :   "12",
-        "jml_mhs_lk"  :   "Nasional",
-        "jml_mhs_pr" :   "Kerjasama 1"
+        "jml_mhs_lk"  :   "60",
+        "jml_mhs_pr" :   "60",
+        "jml_total" :   "115"
 
 
     }
