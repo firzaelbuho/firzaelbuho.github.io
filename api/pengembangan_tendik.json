@@ -1,0 +1,21 @@
+[
+
+    {
+        "nidn"  :   "123",
+        "nama_dosen"  :   "Eko Kurniawan",
+        "bidang"  :   "Pebdidikan",
+        "nama_kegiatan" :   "Pelatihan",
+        "waktu_kegiatan" :   "10-10-2022",
+        "manfaat_kegiatan"  :   "loremipsum"
+    },
+    {
+        
+        "nidn"  :   "126",
+        "nama_dosen"  :   "Ilham Kurniawan",
+        "bidang"  :   "Pebdidikan",
+        "nama_kegiatan" :   "Pelatihan",
+        "waktu_kegiatan" :   "10-8-2022",
+        "manfaat_kegiatan"  :   "loremipsum"
+    }
+
+]

@@ -1,0 +1,37 @@
+[
+
+    {
+        
+        "nama"  :   "Lomba A",
+        "tahun" :   "2022",
+        "tingkat" :   "internasional",
+        "jenis" :   "akademik",
+        "prestasi": "lorem ipsum"
+    },
+    {
+        
+        "nama"  :   "Lomba B",
+        "tahun" :   "2022",
+        "tingkat" :   "internasional",
+        "jenis" :   "akademik",
+        "prestasi": "lorem ipsum"
+    },
+    {
+        
+        "nama"  :   "Lomba C",
+        "tahun" :   "2022",
+        "tingkat" :   "internasional",
+        "jenis" :   "akademik",
+        "prestasi": "lorem ipsum"
+    },
+    {
+        
+        "nama"  :   "Lomba D",
+        "tahun" :   "2022",
+        "tingkat" :   "internasional",
+        "jenis" :   "akademik",
+        "prestasi": "lorem ipsum"
+    }
+
+
+]
