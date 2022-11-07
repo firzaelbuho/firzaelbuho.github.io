@@ -2,7 +2,7 @@
 
     {
         "lembaga"  :   "PT X",
-        "bidang"  :   "Pendidikan",
+        "bidang"  :   "pendidikan",
         "tingkat"  :   "nasional",
         "judul" :   "Kerjasama 1",
         "mafaat"     :   "mafaat 1",
@@ -11,7 +11,7 @@
     },
     {
         "lembaga"  :   "PT Y",
-        "bidang"  :   "Pendidikan",
+        "bidang"  :   "pendidikan",
         "tingkat"  :   "nasional",
         "judul" :   "Kerjasama 1",
         "mafaat"     :   "mafaat 1",
@@ -20,7 +20,16 @@
     },
     {
         "lembaga"  :   "PT Z",
-        "bidang"  :   "Pendidikan",
+        "bidang"  :   "pkm",
+        "tingkat"  :   "internasional",
+        "judul" :   "Kerjasama 1",
+        "mafaat"     :   "mafaat 1",
+        "bukti"   :   "123"
+
+    },
+    {
+        "lembaga"  :   "PT A",
+        "bidang"  :   "penelitian",
         "tingkat"  :   "internasional",
         "judul" :   "Kerjasama 1",
         "mafaat"     :   "mafaat 1",
