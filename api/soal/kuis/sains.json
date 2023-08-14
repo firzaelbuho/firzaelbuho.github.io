@@ -1,0 +1,138 @@
+[
+    {
+        "pertanyaan": "Apa yang disebut dengan hukum Newton pertama?",
+        "a": "Hukum kekekalan momentum",
+        "b": "Hukum gravitasi",
+        "c": "Hukum aksi-reaksi",
+        "d": "Hukum kekekalan energi",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Apa yang disebut dengan hukum Newton kedua?",
+        "a": "Hukum kekekalan momentum",
+        "b": "Hukum gravitasi",
+        "c": "Hukum aksi-reaksi",
+        "d": "Hukum gerak",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Apa yang disebut dengan hukum Newton ketiga?",
+        "a": "Hukum kekekalan momentum",
+        "b": "Hukum gravitasi",
+        "c": "Hukum gerak",
+        "d": "Hukum aksi-reaksi",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Apa yang dimaksud dengan alat ukur tekanan darah?",
+        "a": "Termometer",
+        "b": "Barometer",
+        "c": "Manometer",
+        "d": "Sfigmomanometer",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Apa yang dimaksud dengan osmosis?",
+        "a": "Pergerakan molekul dari konsentrasi rendah ke konsentrasi tinggi",
+        "b": "Pergerakan molekul dari konsentrasi tinggi ke konsentrasi rendah",
+        "c": "Pembentukan kristal padat dari larutan",
+        "d": "Pemecahan zat menjadi zat yang lebih sederhana",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa yang dimaksud dengan kekuatan elektromagnetik?",
+        "a": "Kekuatan yang menyebabkan partikel bermuatan saling tolak-menolak atau tarik-menarik",
+        "b": "Kekuatan yang menyebabkan gerak melingkar beraturan",
+        "c": "Kekuatan yang menyebabkan perubahan momentum",
+        "d": "Kekuatan yang menyebabkan perubahan energi potensial menjadi energi kinetik",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa yang dimaksud dengan momen inersia?",
+        "a": "Sifat benda untuk bergerak terus menerus",
+        "b": "Sifat benda untuk tetap diam",
+        "c": "Sifat benda untuk melawan gaya putar",
+        "d": "Sifat benda untuk terus bergerak dalam garis lurus",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Apa yang dimaksud dengan kecepatan suara?",
+        "a": "Kecepatan gerak benda dalam garis lurus",
+        "b": "Kecepatan gerak benda dalam gerak berkelanjutan",
+        "c": "Kecepatan perambatan getaran suara melalui medium",
+        "d": "Kecepatan perambatan cahaya melalui medium",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Apa yang menyebabkan warna biru pada langit pada siang hari?",
+        "a": "Gelombang suara",
+        "b": "Gelombang elektromagnetik",
+        "c": "Partikel cahaya",
+        "d": "Partikel udara",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Molekul apa yang ditemukan pada DNA?",
+        "a": "Amino asam",
+        "b": "Fosfat",
+        "c": "Gula",
+        "d": "Nukleotida",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Apa nama reaksi kimia ketika oksigen dan glukosa bereaksi untuk menghasilkan energi?",
+        "a": "Fotosintesis",
+        "b": "Respirasi aerobik",
+        "c": "Respirasi anaerobik",
+        "d": "Eksotermik",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Bagaimana suhu meningkat ketika benda dipanaskan?",
+        "a": "Molekul bergerak lebih lambat",
+        "b": "Molekul bergerak lebih cepat",
+        "c": "Molekul berhenti bergerak",
+        "d": "Molekul mengalami perubahan bentuk",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Berapa banyak rongga jantung pada manusia?",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Apa yang disebut sebagai unit dasar dari materi?",
+        "a": "Molekul",
+        "b": "Atom",
+        "c": "Sel",
+        "d": "Partikel",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa nama gas yang terdapat dalam atmosfer yang diperlukan oleh organisme untuk bernafas?",
+        "a": "Oksigen",
+        "b": "Nitrogen",
+        "c": "Karbondioksida",
+        "d": "Argon",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa yang menjadi fungsi utama ginjal?",
+        "a": "Menghasilkan hormon insulin",
+        "b": "Menghasilkan asam lambung",
+        "c": "Mengatur keseimbangan air dalam tubuh",
+        "d": "Menghasilkan sel darah merah",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Apa nama bagian bawah mikroskop?",
+        "a": "Okuler",
+        "b": "Objektif",
+        "c": "Lensa",
+        "d": "Kondensor",
+        "kunci": "d"
+    }
+]

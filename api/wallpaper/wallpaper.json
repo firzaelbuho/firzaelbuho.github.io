@@ -1,0 +1,34 @@
+[ 
+    {
+        "id": "1",
+        "name": "New Wallpaper 1",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc3PC9EHaTXuQGUKPGYfVSnpR0ANe8DoC0dbmSLY&s",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc3PC9EHaTXuQGUKPGYfVSnpR0ANe8DoC0dbmSLY&s",
+        "isDownloaded": false,
+        "localPath": ""
+    },
+    {
+        "id": "2",
+        "name": "New Wallpaper 2",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc3PC9EHaTXuQGUKPGYfVSnpR0ANe8DoC0dbmSLY&s",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc3PC9EHaTXuQGUKPGYfVSnpR0ANe8DoC0dbmSLY&s",
+        "isDownloaded": false,
+        "localPath": ""
+    },
+    {
+        "id": "3",
+        "name": "New Wallpaper 3",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc3PC9EHaTXuQGUKPGYfVSnpR0ANe8DoC0dbmSLY&s",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc3PC9EHaTXuQGUKPGYfVSnpR0ANe8DoC0dbmSLY&s",
+        "isDownloaded": false,
+        "localPath": ""
+    },
+    {
+        "id": "4",
+        "name": "New Wallpaper 2",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc3PC9EHaTXuQGUKPGYfVSnpR0ANe8DoC0dbmSLY&s",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc3PC9EHaTXuQGUKPGYfVSnpR0ANe8DoC0dbmSLY&s",
+        "isDownloaded": false,
+        "localPath": ""
+    }
+]

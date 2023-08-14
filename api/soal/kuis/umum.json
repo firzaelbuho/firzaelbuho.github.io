@@ -1,0 +1,626 @@
+[
+    {
+        "pertanyaan": "Siapakah penulis buku Harry Potter?",
+        "a": "J.K. Rowling",
+        "b": "Stephenie Meyer",
+        "c": "George R.R. Martin",
+        "d": "Suzanne Collins",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa yang merupakan planet terdekat dari matahari?",
+        "a": "Venus",
+        "b": "Merkurius",
+        "c": "Mars",
+        "d": "Jupiter",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa yang menjadi ibu kota Indonesia sebelum Jakarta?",
+        "a": "Bandung",
+        "b": "Surabaya",
+        "c": "Yogyakarta",
+        "d": "Semarang",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Siapakah penemu komputer modern?",
+        "a": "Steve Jobs",
+        "b": "Bill Gates",
+        "c": "Charles Babbage",
+        "d": "Tim Berners-Lee",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Negara manakah yang terletak di benua Amerika Selatan?",
+        "a": "Amerika Serikat",
+        "b": "Kanada",
+        "c": "Meksiko",
+        "d": "Brasil",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Apa jenis bahan bakar yang digunakan oleh pesawat terbang?",
+        "a": "Bensin",
+        "b": "Solar",
+        "c": "Avtur",
+        "d": "Minyak tanah",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Siapakah penemu teori relativitas?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Stephen Hawking",
+        "d": "Galileo Galilei",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa nama benua yang terletak di sebelah selatan bumi?",
+        "a": "Benua Eropa",
+        "b": "Benua Amerika",
+        "c": "Benua Asia",
+        "d": "Benua Australia",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Siapakah pelukis terkenal yang melukis Mona Lisa?",
+        "a": "Leonardo da Vinci",
+        "b": "Vincent van Gogh",
+        "c": "Pablo Picasso",
+        "d": "Rembrandt",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa nama sungai yang terkenal di Mesir?",
+        "a": "Sungai Ganges",
+        "b": "Sungai Nil",
+        "c": "Sungai Amazon",
+        "d": "Sungai Mekong",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Siapa presiden pertama Amerika Serikat?",
+        "a": "George Washington",
+        "b": "Thomas Jefferson",
+        "c": "John Adams",
+        "d": "James Madison",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa yang menjadi alat musik simbol dari Skotlandia?",
+        "a": "Harpa",
+        "b": "Gitar",
+        "c": "Biola",
+        "d": "Seruling",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Siapa penulis novel Lord of the Rings?",
+        "a": "J.R.R. Tolkien",
+        "b": "C.S. Lewis",
+        "c": "George R.R. Martin",
+        "d": "Suzanne Collins",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa warna bendera Inggris?",
+        "a": "Merah, putih, dan hijau",
+        "b": "Biru, putih, dan merah",
+        "c": "Merah dan putih",
+        "d": "Kuning dan hitam",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Siapa pelukis terkenal yang melukis The Starry Night?",
+        "a": "Claude Monet",
+        "b": "Vincent van Gogh",
+        "c": "Pablo Picasso",
+        "d": "Salvador Dali",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa nama kapal penjelajah laut yang dikomandani oleh Christopher Columbus?",
+        "a": "Santa Maria",
+        "b": "Nina",
+        "c": "Pinta",
+        "d": "Victoria",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa yang menjadi ibu kota Brasil?",
+        "a": "Rio de Janeiro",
+        "b": "Sao Paulo",
+        "c": "Brasilia",
+        "d": "Buenos Aires",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Apa nama bintang terdekat dari bumi?",
+        "a": "Aldebaran",
+        "b": "Proxima Centauri",
+        "c": "Betelgeuse",
+        "d": "Sirius",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa nama tanaman yang disebut sebagai 'pohon kehidupan' oleh suku Maasai di Afrika?",
+        "a": "Baobab",
+        "b": "Mangga",
+        "c": "Jeruk",
+        "d": "Pisang",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Siapa yang menciptakan karakter Spider-Man?",
+        "a": "Stan Lee",
+        "b": "Frank Miller",
+        "c": "Alan Moore",
+        "d": "Neil Gaiman",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa yang menjadi alat musik simbol dari Skotlandia?",
+        "a": "Harpa",
+        "b": "Gitar",
+        "c": "Biola",
+        "d": "Seruling",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Siapa penulis novel Lord of the Rings?",
+        "a": "J.R.R. Tolkien",
+        "b": "C.S. Lewis",
+        "c": "George R.R. Martin",
+        "d": "Suzanne Collins",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa warna bendera Inggris?",
+        "a": "Merah, putih, dan hijau",
+        "b": "Biru, putih, dan merah",
+        "c": "Merah dan putih",
+        "d": "Kuning dan hitam",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Siapa pelukis terkenal yang melukis The Starry Night?",
+        "a": "Claude Monet",
+        "b": "Vincent van Gogh",
+        "c": "Pablo Picasso",
+        "d": "Salvador Dali",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa nama kapal penjelajah laut yang dikomandani oleh Christopher Columbus?",
+        "a": "Santa Maria",
+        "b": "Nina",
+        "c": "Pinta",
+        "d": "Victoria",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa yang menjadi ibu kota Brasil?",
+        "a": "Rio de Janeiro",
+        "b": "Sao Paulo",
+        "c": "Brasilia",
+        "d": "Buenos Aires",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Apa nama bintang terdekat dari bumi?",
+        "a": "Aldebaran",
+        "b": "Proxima Centauri",
+        "c": "Betelgeuse",
+        "d": "Sirius",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa nama tanaman yang disebut sebagai 'pohon kehidupan' oleh suku Maasai di Afrika?",
+        "a": "Baobab",
+        "b": "Mangga",
+        "c": "Jeruk",
+        "d": "Pisang",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Siapa yang menciptakan karakter Spider-Man?",
+        "a": "Stan Lee",
+        "b": "Frank Miller",
+        "c": "Alan Moore",
+        "d": "Neil Gaiman",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa yang dimaksud dengan kecerdasan buatan (AI)?",
+        "a": "Komputer yang dibuat untuk meniru kecerdasan manusia",
+        "b": "Pembelajaran mesin melalui pengalaman dan data",
+        "c": "Sistem yang mampu melakukan tugas manusia tanpa campur tangan manusia",
+        "d": "Semua jawaban benar",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Siapakah tokoh yang memimpin revolusi Prancis dan menjabat sebagai kaisar?",
+        "a": "Napoleon Bonaparte",
+        "b": "George Washington",
+        "c": "Thomas Jefferson",
+        "d": "Benjamin Franklin",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Siapakah penemu telepon?",
+        "a": "Graham Bell",
+        "b": "Thomas Edison",
+        "c": "Nikola Tesla",
+        "d": "Alexander Fleming",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Di mana ditemukan Tengkorak Manusia Purba yang disebut 'Java Man'?",
+        "a": "China",
+        "b": "India",
+        "c": "Indonesia",
+        "d": "Jepang",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Kota apa yang dijuluki 'Kota Eterna' karena keindahan arsitekturnya yang abadi?",
+        "a": "Paris",
+        "b": "Roma",
+        "c": "Atenas",
+        "d": "Venice",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Siapakah pelukis terkenal yang menciptakan lukisan Mona Lisa?",
+        "a": "Vincent van Gogh",
+        "b": "Pablo Picasso",
+        "c": "Leonardo da Vinci",
+        "d": "Michelangelo",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Siapakah raja dari Kerajaan Inggris yang memerintah pada saat Perang Dunia II?",
+        "a": "Raja George V",
+        "b": "Raja Edward VIII",
+        "c": "Raja George VI",
+        "d": "Ratu Elizabeth II",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Karya sastra apa yang menceritakan kisah seorang pahlawan dalam mitologi Yunani yang diberi nama sama seperti karya sastra tersebut?",
+        "a": "Iliad",
+        "b": "Odyssey",
+        "c": "Aeneid",
+        "d": "Divine Comedy",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Siapa nama tokoh dalam novel 'Laskar Pelangi' karangan Andrea Hirata?",
+        "a": "Ikal",
+        "b": "Arai",
+        "c": "Lintang",
+        "d": "Mahar",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Pada tahun berapa Leonardo da Vinci melukis lukisan 'Mona Lisa'?",
+        "a": "1490",
+        "b": "1503",
+        "c": "1517",
+        "d": "1532",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Siapakah pemimpin Soviet yang memerintah pada masa Perang Dingin?",
+        "a": "Joseph Stalin",
+        "b": "Mikhail Gorbachev",
+        "c": "Vladimir Putin",
+        "d": "Nikita Khrushchev",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa nama benua terbesar di dunia?",
+        "a": "Asia",
+        "b": "Afrika",
+        "c": "Amerika",
+        "d": "Eropa",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Siapa tokoh yang dikenal sebagai bapak kimia modern?",
+        "a": "Johannes Kepler",
+        "b": "Isaac Newton",
+        "c": "Robert Boyle",
+        "d": "Albert Einstein",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Apa nama senjata tradisional Jepang yang terkenal?",
+        "a": "Katana",
+        "b": "Nunchaku",
+        "c": "Kusarigama",
+        "d": "Shuriken",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Siapa penemu bola lampu pijar?",
+        "a": "Thomas Edison",
+        "b": "Alexander Graham Bell",
+        "c": "Nikola Tesla",
+        "d": "Benjamin Franklin",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Di mana lokasi Menara Eiffel?",
+        "a": "London",
+        "b": "Paris",
+        "c": "Roma",
+        "d": "Barcelona",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Siapa penemu teori relativitas?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Galileo Galilei",
+        "d": "Stephen Hawking",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa nama satelit alami Bumi?",
+        "a": "Mars",
+        "b": "Jupiter",
+        "c": "Bulan",
+        "d": "Saturnus",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Berapa jumlah negara yang tergabung dalam ASEAN?",
+        "a": "8",
+        "b": "9",
+        "c": "10",
+        "d": "11",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Apa nama valuta negara Jepang?",
+        "a": "Renminbi",
+        "b": "Yen",
+        "c": "Won",
+        "d": "Dolar",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Kapankah Hari Kemerdekaan Indonesia diproklamasikan?",
+        "a": "16 Agustus 1945",
+        "b": "17 Agustus 1945",
+        "c": "18 Agustus 1945",
+        "d": "19 Agustus 1945",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Negara manakah yang menjadi tuan rumah Piala Dunia FIFA 2022?",
+        "a": "Qatar",
+        "b": "Arab Saudi",
+        "c": "Uni Emirat Arab",
+        "d": "Bahrain",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Siapa penemu mesin uap?",
+        "a": "Thomas Edison",
+        "b": "James Watt",
+        "c": "Nikola Tesla",
+        "d": "Benjamin Franklin",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Siapa aktor terkenal yang berperan sebagai Iron Man di Marvel Cinematic Universe?",
+        "a": "Robert Downey Jr.",
+        "b": "Chris Hemsworth",
+        "c": "Chris Evans",
+        "d": "Mark Ruffalo",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Negara manakah yang dijuluki sebagai negeri matahari terbit?",
+        "a": "Korea Selatan",
+        "b": "Jepang",
+        "c": "China",
+        "d": "Taiwan",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa nama planet yang paling dekat dengan Matahari?",
+        "a": "Venus",
+        "b": "Merkurius",
+        "c": "Mars",
+        "d": "Jupiter",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa nama simbol kimia untuk emas?",
+        "a": "Au",
+        "b": "Ag",
+        "c": "Fe",
+        "d": "Cu",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Berapa jumlah gigi pada manusia dewasa?",
+        "a": "28",
+        "b": "32",
+        "c": "36",
+        "d": "40",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Siapa presiden pertama Republik Indonesia?",
+        "a": "Ir. Soekarno",
+        "b": "Mohammad Hatta",
+        "c": "Soeharto",
+        "d": "Megawati Soekarnoputri",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Siapa penemu teleskop?",
+        "a": "Galileo Galilei",
+        "b": "Isaac Newton",
+        "c": "Albert Einstein",
+        "d": "Nikola Tesla",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Negara manakah yang dijuluki sebagai negeri gajah?",
+        "a": "India",
+        "b": "Thailand",
+        "c": "Sri Lanka",
+        "d": "Indonesia",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Berapa banyak jumlah provinsi di Indonesia?",
+        "a": "30",
+        "b": "32",
+        "c": "34",
+        "d": "36",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Siapa penemu bola lampu?",
+        "a": "Thomas Edison",
+        "b": "Nikola Tesla",
+        "c": "Benjamin Franklin",
+        "d": "James Watt",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Negara manakah yang dijuluki sebagai negeri singa?",
+        "a": "Malaysia",
+        "b": "Indonesia",
+        "c": "Singapura",
+        "d": "Thailand",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Siapa penulis novel 'Laskar Pelangi'?",
+        "a": "Andrea Hirata",
+        "b": "Tere Liye",
+        "c": "Dee Lestari",
+        "d": "Ayah Eman",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Negara manakah yang dijuluki sebagai negeri seribu pulau?",
+        "a": "Filipina",
+        "b": "Malaysia",
+        "c": "Thailand",
+        "d": "Indonesia",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Apa nama ibukota Inggris?",
+        "a": "Paris",
+        "b": "London",
+        "c": "Madrid",
+        "d": "Roma",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Siapa pelopor Revolusi Industri?",
+        "a": "James Watt",
+        "b": "Thomas Edison",
+        "c": "Nikola Tesla",
+        "d": "Albert Einstein",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa yang menjadi monumen paling terkenal di Paris?",
+        "a": "Statue of Liberty",
+        "b": "Eiffel Tower",
+        "c": "Leaning Tower of Pisa",
+        "d": "Golden Gate Bridge",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Apa nama planet yang terdekat dengan matahari?",
+        "a": "Mars",
+        "b": "Venus",
+        "c": "Mercury",
+        "d": "Jupiter",
+        "kunci": "c"
+    },
+    {
+        "pertanyaan": "Negara manakah yang memiliki wilayah terluas di dunia?",
+        "a": "Rusia",
+        "b": "Kanada",
+        "c": "China",
+        "d": "Amerika Serikat",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa nama binatang terbesar di dunia?",
+        "a": "Gajah",
+        "b": "Jerapah",
+        "c": "Singa",
+        "d": "Paus Biru",
+        "kunci": "d"
+    },
+    {
+        "pertanyaan": "Negara manakah yang terkenal dengan tariannya yang bernama tango?",
+        "a": "Argentina",
+        "b": "Brasil",
+        "c": "Meksiko",
+        "d": "Perancis",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa nama benua terbesar di dunia?",
+        "a": "Asia",
+        "b": "Eropa",
+        "c": "Amerika",
+        "d": "Afrika",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa nama alat musik yang terdiri dari 88 buah tuts?",
+        "a": "Drum",
+        "b": "Piano",
+        "c": "Gitar",
+        "d": "Bass",
+        "kunci": "b"
+    },
+    {
+        "pertanyaan": "Negara manakah yang terkenal dengan sepak bolanya?",
+        "a": "Italia",
+        "b": "Spanyol",
+        "c": "Inggris",
+        "d": "Jerman",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa nama senjata yang ditemukan oleh Edward U. Condon pada tahun 1947?",
+        "a": "Bom atom",
+        "b": "Pesawat terbang",
+        "c": "Tank",
+        "d": "Roket",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa nama kapal yang dikendarai oleh Christopher Columbus dalam perjalanannya menemukan Amerika?",
+        "a": "Santa Maria",
+        "b": "Nina",
+        "c": "Pinta",
+        "d": "Mayflower",
+        "kunci": "a"
+    },
+    {
+        "pertanyaan": "Apa nama ibu kota Jepang?",
+        "a": "Tokyo",
+        "b": "Kyoto",
+        "c": "Osaka",
+        "d": "Hiroshima",
+        "kunci": "a"
+      }
+]
