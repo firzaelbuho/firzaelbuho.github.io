@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/main.css">
+  <script src="js/main.js" defer></script>
+  <title>Solid Wallpaper Generator</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Solid Wallpaper Generator</h1>
+    <label for="resolution">Resolution:</label>
+    <input type="number" id="resolution" min="1" placeholder="Width">
+    <input type="number" id="resolution" min="1" placeholder="Height">
+    <div class="color-picker">
+      <label for="color">Choose Color:</label>
+      <input type="color" id="color">
+      <div class="color-preview"></div>
+    </div>
+    <button id="generate">Generate Wallpaper</button>
+    <a id="download-link" download="wallpaper.png" style="display: none;">Download Wallpaper</a>
+    <canvas id="wallpaper"></canvas>
+  </div>
+</body>
+</html>
