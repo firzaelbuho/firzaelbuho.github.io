@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const resolutionWidthInput = document.getElementById('resolution');
-    const resolutionHeightInput = document.getElementById('resolution');
+    const resolutionWidthInput = document.getElementById('resolution_width');
+    const resolutionHeightInput = document.getElementById('resolution_height');
     const colorInput = document.getElementById('color');
     const colorPreview = document.querySelector('.color-preview');
     const generateButton = document.getElementById('generate');
