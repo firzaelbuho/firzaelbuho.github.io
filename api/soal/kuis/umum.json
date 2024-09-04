@@ -1,626 +1,1152 @@
 [
-    {
-        "pertanyaan": "Siapakah penulis buku Harry Potter?",
-        "a": "J.K. Rowling",
-        "b": "Stephenie Meyer",
-        "c": "George R.R. Martin",
-        "d": "Suzanne Collins",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa yang merupakan planet terdekat dari matahari?",
-        "a": "Venus",
-        "b": "Merkurius",
-        "c": "Mars",
-        "d": "Jupiter",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Apa yang menjadi ibu kota Indonesia sebelum Jakarta?",
-        "a": "Bandung",
-        "b": "Surabaya",
-        "c": "Yogyakarta",
-        "d": "Semarang",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Siapakah penemu komputer modern?",
-        "a": "Steve Jobs",
-        "b": "Bill Gates",
-        "c": "Charles Babbage",
-        "d": "Tim Berners-Lee",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Negara manakah yang terletak di benua Amerika Selatan?",
-        "a": "Amerika Serikat",
-        "b": "Kanada",
-        "c": "Meksiko",
-        "d": "Brasil",
-        "kunci": "d"
-    },
-    {
-        "pertanyaan": "Apa jenis bahan bakar yang digunakan oleh pesawat terbang?",
-        "a": "Bensin",
-        "b": "Solar",
-        "c": "Avtur",
-        "d": "Minyak tanah",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Siapakah penemu teori relativitas?",
-        "a": "Isaac Newton",
-        "b": "Albert Einstein",
-        "c": "Stephen Hawking",
-        "d": "Galileo Galilei",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Apa nama benua yang terletak di sebelah selatan bumi?",
-        "a": "Benua Eropa",
-        "b": "Benua Amerika",
-        "c": "Benua Asia",
-        "d": "Benua Australia",
-        "kunci": "d"
-    },
-    {
-        "pertanyaan": "Siapakah pelukis terkenal yang melukis Mona Lisa?",
-        "a": "Leonardo da Vinci",
-        "b": "Vincent van Gogh",
-        "c": "Pablo Picasso",
-        "d": "Rembrandt",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa nama sungai yang terkenal di Mesir?",
-        "a": "Sungai Ganges",
-        "b": "Sungai Nil",
-        "c": "Sungai Amazon",
-        "d": "Sungai Mekong",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Siapa presiden pertama Amerika Serikat?",
-        "a": "George Washington",
-        "b": "Thomas Jefferson",
-        "c": "John Adams",
-        "d": "James Madison",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa yang menjadi alat musik simbol dari Skotlandia?",
-        "a": "Harpa",
-        "b": "Gitar",
-        "c": "Biola",
-        "d": "Seruling",
-        "kunci": "d"
-    },
-    {
-        "pertanyaan": "Siapa penulis novel Lord of the Rings?",
-        "a": "J.R.R. Tolkien",
-        "b": "C.S. Lewis",
-        "c": "George R.R. Martin",
-        "d": "Suzanne Collins",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa warna bendera Inggris?",
-        "a": "Merah, putih, dan hijau",
-        "b": "Biru, putih, dan merah",
-        "c": "Merah dan putih",
-        "d": "Kuning dan hitam",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Siapa pelukis terkenal yang melukis The Starry Night?",
-        "a": "Claude Monet",
-        "b": "Vincent van Gogh",
-        "c": "Pablo Picasso",
-        "d": "Salvador Dali",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Apa nama kapal penjelajah laut yang dikomandani oleh Christopher Columbus?",
-        "a": "Santa Maria",
-        "b": "Nina",
-        "c": "Pinta",
-        "d": "Victoria",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa yang menjadi ibu kota Brasil?",
-        "a": "Rio de Janeiro",
-        "b": "Sao Paulo",
-        "c": "Brasilia",
-        "d": "Buenos Aires",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Apa nama bintang terdekat dari bumi?",
-        "a": "Aldebaran",
-        "b": "Proxima Centauri",
-        "c": "Betelgeuse",
-        "d": "Sirius",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Apa nama tanaman yang disebut sebagai 'pohon kehidupan' oleh suku Maasai di Afrika?",
-        "a": "Baobab",
-        "b": "Mangga",
-        "c": "Jeruk",
-        "d": "Pisang",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Siapa yang menciptakan karakter Spider-Man?",
-        "a": "Stan Lee",
-        "b": "Frank Miller",
-        "c": "Alan Moore",
-        "d": "Neil Gaiman",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa yang menjadi alat musik simbol dari Skotlandia?",
-        "a": "Harpa",
-        "b": "Gitar",
-        "c": "Biola",
-        "d": "Seruling",
-        "kunci": "d"
-    },
-    {
-        "pertanyaan": "Siapa penulis novel Lord of the Rings?",
-        "a": "J.R.R. Tolkien",
-        "b": "C.S. Lewis",
-        "c": "George R.R. Martin",
-        "d": "Suzanne Collins",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa warna bendera Inggris?",
-        "a": "Merah, putih, dan hijau",
-        "b": "Biru, putih, dan merah",
-        "c": "Merah dan putih",
-        "d": "Kuning dan hitam",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Siapa pelukis terkenal yang melukis The Starry Night?",
-        "a": "Claude Monet",
-        "b": "Vincent van Gogh",
-        "c": "Pablo Picasso",
-        "d": "Salvador Dali",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Apa nama kapal penjelajah laut yang dikomandani oleh Christopher Columbus?",
-        "a": "Santa Maria",
-        "b": "Nina",
-        "c": "Pinta",
-        "d": "Victoria",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa yang menjadi ibu kota Brasil?",
-        "a": "Rio de Janeiro",
-        "b": "Sao Paulo",
-        "c": "Brasilia",
-        "d": "Buenos Aires",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Apa nama bintang terdekat dari bumi?",
-        "a": "Aldebaran",
-        "b": "Proxima Centauri",
-        "c": "Betelgeuse",
-        "d": "Sirius",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Apa nama tanaman yang disebut sebagai 'pohon kehidupan' oleh suku Maasai di Afrika?",
-        "a": "Baobab",
-        "b": "Mangga",
-        "c": "Jeruk",
-        "d": "Pisang",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Siapa yang menciptakan karakter Spider-Man?",
-        "a": "Stan Lee",
-        "b": "Frank Miller",
-        "c": "Alan Moore",
-        "d": "Neil Gaiman",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa yang dimaksud dengan kecerdasan buatan (AI)?",
-        "a": "Komputer yang dibuat untuk meniru kecerdasan manusia",
-        "b": "Pembelajaran mesin melalui pengalaman dan data",
-        "c": "Sistem yang mampu melakukan tugas manusia tanpa campur tangan manusia",
-        "d": "Semua jawaban benar",
-        "kunci": "d"
-    },
-    {
-        "pertanyaan": "Siapakah tokoh yang memimpin revolusi Prancis dan menjabat sebagai kaisar?",
-        "a": "Napoleon Bonaparte",
-        "b": "George Washington",
-        "c": "Thomas Jefferson",
-        "d": "Benjamin Franklin",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Siapakah penemu telepon?",
-        "a": "Graham Bell",
-        "b": "Thomas Edison",
-        "c": "Nikola Tesla",
-        "d": "Alexander Fleming",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Di mana ditemukan Tengkorak Manusia Purba yang disebut 'Java Man'?",
-        "a": "China",
-        "b": "India",
-        "c": "Indonesia",
-        "d": "Jepang",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Kota apa yang dijuluki 'Kota Eterna' karena keindahan arsitekturnya yang abadi?",
-        "a": "Paris",
-        "b": "Roma",
-        "c": "Atenas",
-        "d": "Venice",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Siapakah pelukis terkenal yang menciptakan lukisan Mona Lisa?",
-        "a": "Vincent van Gogh",
-        "b": "Pablo Picasso",
-        "c": "Leonardo da Vinci",
-        "d": "Michelangelo",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Siapakah raja dari Kerajaan Inggris yang memerintah pada saat Perang Dunia II?",
-        "a": "Raja George V",
-        "b": "Raja Edward VIII",
-        "c": "Raja George VI",
-        "d": "Ratu Elizabeth II",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Karya sastra apa yang menceritakan kisah seorang pahlawan dalam mitologi Yunani yang diberi nama sama seperti karya sastra tersebut?",
-        "a": "Iliad",
-        "b": "Odyssey",
-        "c": "Aeneid",
-        "d": "Divine Comedy",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Siapa nama tokoh dalam novel 'Laskar Pelangi' karangan Andrea Hirata?",
-        "a": "Ikal",
-        "b": "Arai",
-        "c": "Lintang",
-        "d": "Mahar",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Pada tahun berapa Leonardo da Vinci melukis lukisan 'Mona Lisa'?",
-        "a": "1490",
-        "b": "1503",
-        "c": "1517",
-        "d": "1532",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Siapakah pemimpin Soviet yang memerintah pada masa Perang Dingin?",
-        "a": "Joseph Stalin",
-        "b": "Mikhail Gorbachev",
-        "c": "Vladimir Putin",
-        "d": "Nikita Khrushchev",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa nama benua terbesar di dunia?",
-        "a": "Asia",
-        "b": "Afrika",
-        "c": "Amerika",
-        "d": "Eropa",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Siapa tokoh yang dikenal sebagai bapak kimia modern?",
-        "a": "Johannes Kepler",
-        "b": "Isaac Newton",
-        "c": "Robert Boyle",
-        "d": "Albert Einstein",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Apa nama senjata tradisional Jepang yang terkenal?",
-        "a": "Katana",
-        "b": "Nunchaku",
-        "c": "Kusarigama",
-        "d": "Shuriken",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Siapa penemu bola lampu pijar?",
-        "a": "Thomas Edison",
-        "b": "Alexander Graham Bell",
-        "c": "Nikola Tesla",
-        "d": "Benjamin Franklin",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Di mana lokasi Menara Eiffel?",
-        "a": "London",
-        "b": "Paris",
-        "c": "Roma",
-        "d": "Barcelona",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Siapa penemu teori relativitas?",
-        "a": "Isaac Newton",
-        "b": "Albert Einstein",
-        "c": "Galileo Galilei",
-        "d": "Stephen Hawking",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Apa nama satelit alami Bumi?",
-        "a": "Mars",
-        "b": "Jupiter",
-        "c": "Bulan",
-        "d": "Saturnus",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Berapa jumlah negara yang tergabung dalam ASEAN?",
-        "a": "8",
-        "b": "9",
-        "c": "10",
-        "d": "11",
-        "kunci": "d"
-    },
-    {
-        "pertanyaan": "Apa nama valuta negara Jepang?",
-        "a": "Renminbi",
-        "b": "Yen",
-        "c": "Won",
-        "d": "Dolar",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Kapankah Hari Kemerdekaan Indonesia diproklamasikan?",
-        "a": "16 Agustus 1945",
-        "b": "17 Agustus 1945",
-        "c": "18 Agustus 1945",
-        "d": "19 Agustus 1945",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Negara manakah yang menjadi tuan rumah Piala Dunia FIFA 2022?",
-        "a": "Qatar",
-        "b": "Arab Saudi",
-        "c": "Uni Emirat Arab",
-        "d": "Bahrain",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Siapa penemu mesin uap?",
-        "a": "Thomas Edison",
-        "b": "James Watt",
-        "c": "Nikola Tesla",
-        "d": "Benjamin Franklin",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Siapa aktor terkenal yang berperan sebagai Iron Man di Marvel Cinematic Universe?",
-        "a": "Robert Downey Jr.",
-        "b": "Chris Hemsworth",
-        "c": "Chris Evans",
-        "d": "Mark Ruffalo",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Negara manakah yang dijuluki sebagai negeri matahari terbit?",
-        "a": "Korea Selatan",
-        "b": "Jepang",
-        "c": "China",
-        "d": "Taiwan",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Apa nama planet yang paling dekat dengan Matahari?",
-        "a": "Venus",
-        "b": "Merkurius",
-        "c": "Mars",
-        "d": "Jupiter",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Apa nama simbol kimia untuk emas?",
-        "a": "Au",
-        "b": "Ag",
-        "c": "Fe",
-        "d": "Cu",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Berapa jumlah gigi pada manusia dewasa?",
-        "a": "28",
-        "b": "32",
-        "c": "36",
-        "d": "40",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Siapa presiden pertama Republik Indonesia?",
-        "a": "Ir. Soekarno",
-        "b": "Mohammad Hatta",
-        "c": "Soeharto",
-        "d": "Megawati Soekarnoputri",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Siapa penemu teleskop?",
-        "a": "Galileo Galilei",
-        "b": "Isaac Newton",
-        "c": "Albert Einstein",
-        "d": "Nikola Tesla",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Negara manakah yang dijuluki sebagai negeri gajah?",
-        "a": "India",
-        "b": "Thailand",
-        "c": "Sri Lanka",
-        "d": "Indonesia",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Berapa banyak jumlah provinsi di Indonesia?",
-        "a": "30",
-        "b": "32",
-        "c": "34",
-        "d": "36",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Siapa penemu bola lampu?",
-        "a": "Thomas Edison",
-        "b": "Nikola Tesla",
-        "c": "Benjamin Franklin",
-        "d": "James Watt",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Negara manakah yang dijuluki sebagai negeri singa?",
-        "a": "Malaysia",
-        "b": "Indonesia",
-        "c": "Singapura",
-        "d": "Thailand",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Siapa penulis novel 'Laskar Pelangi'?",
-        "a": "Andrea Hirata",
-        "b": "Tere Liye",
-        "c": "Dee Lestari",
-        "d": "Ayah Eman",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Negara manakah yang dijuluki sebagai negeri seribu pulau?",
-        "a": "Filipina",
-        "b": "Malaysia",
-        "c": "Thailand",
-        "d": "Indonesia",
-        "kunci": "d"
-    },
-    {
-        "pertanyaan": "Apa nama ibukota Inggris?",
-        "a": "Paris",
-        "b": "London",
-        "c": "Madrid",
-        "d": "Roma",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Siapa pelopor Revolusi Industri?",
-        "a": "James Watt",
-        "b": "Thomas Edison",
-        "c": "Nikola Tesla",
-        "d": "Albert Einstein",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa yang menjadi monumen paling terkenal di Paris?",
-        "a": "Statue of Liberty",
-        "b": "Eiffel Tower",
-        "c": "Leaning Tower of Pisa",
-        "d": "Golden Gate Bridge",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Apa nama planet yang terdekat dengan matahari?",
-        "a": "Mars",
-        "b": "Venus",
-        "c": "Mercury",
-        "d": "Jupiter",
-        "kunci": "c"
-    },
-    {
-        "pertanyaan": "Negara manakah yang memiliki wilayah terluas di dunia?",
-        "a": "Rusia",
-        "b": "Kanada",
-        "c": "China",
-        "d": "Amerika Serikat",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa nama binatang terbesar di dunia?",
-        "a": "Gajah",
-        "b": "Jerapah",
-        "c": "Singa",
-        "d": "Paus Biru",
-        "kunci": "d"
-    },
-    {
-        "pertanyaan": "Negara manakah yang terkenal dengan tariannya yang bernama tango?",
-        "a": "Argentina",
-        "b": "Brasil",
-        "c": "Meksiko",
-        "d": "Perancis",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa nama benua terbesar di dunia?",
-        "a": "Asia",
-        "b": "Eropa",
-        "c": "Amerika",
-        "d": "Afrika",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa nama alat musik yang terdiri dari 88 buah tuts?",
-        "a": "Drum",
-        "b": "Piano",
-        "c": "Gitar",
-        "d": "Bass",
-        "kunci": "b"
-    },
-    {
-        "pertanyaan": "Negara manakah yang terkenal dengan sepak bolanya?",
-        "a": "Italia",
-        "b": "Spanyol",
-        "c": "Inggris",
-        "d": "Jerman",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa nama senjata yang ditemukan oleh Edward U. Condon pada tahun 1947?",
-        "a": "Bom atom",
-        "b": "Pesawat terbang",
-        "c": "Tank",
-        "d": "Roket",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa nama kapal yang dikendarai oleh Christopher Columbus dalam perjalanannya menemukan Amerika?",
-        "a": "Santa Maria",
-        "b": "Nina",
-        "c": "Pinta",
-        "d": "Mayflower",
-        "kunci": "a"
-    },
-    {
-        "pertanyaan": "Apa nama ibu kota Jepang?",
-        "a": "Tokyo",
-        "b": "Kyoto",
-        "c": "Osaka",
-        "d": "Hiroshima",
-        "kunci": "a"
+  {
+    "questionId": 1,
+    "questionText": "Apa ibu kota dari Indonesia?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Jakarta"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Bandung"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Surabaya"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Medan"
       }
+    ]
+  },
+  {
+    "questionId": 2,
+    "questionText": "Siapa penemu lampu pijar?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Alexander Graham Bell"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Thomas Alva Edison"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Nikola Tesla"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Albert Einstein"
+      }
+    ]
+  },
+  {
+    "questionId": 3,
+    "questionText": "Planet terbesar dalam tata surya kita adalah?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Bumi"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Mars"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Jupiter"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Saturnus"
+      }
+    ]
+  },
+  {
+    "questionId": 4,
+    "questionText": "Berapa jumlah provinsi di Indonesia pada tahun 2023?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "33"
+      },
+      {
+        "answerId": 2,
+        "answerText": "38"
+      },
+      {
+        "answerId": 3,
+        "answerText": "34"
+      },
+      {
+        "answerId": 4,
+        "answerText": "36"
+      }
+    ]
+  },
+  {
+    "questionId": 5,
+    "questionText": "Siapa presiden pertama Indonesia?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "B.J. Habibie"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Soeharto"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Soekarno"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Megawati Soekarnoputri"
+      }
+    ]
+  },
+  {
+    "questionId": 6,
+    "questionText": "Zat kimia apa yang memberi warna merah pada darah?",
+    "keyId": 4,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Albumin"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Globulin"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Fibrinogen"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Hemoglobin"
+      }
+    ]
+  },
+  {
+    "questionId": 7,
+    "questionText": "Siapa pencipta teori relativitas?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Albert Einstein"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Isaac Newton"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Galileo Galilei"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Niels Bohr"
+      }
+    ]
+  },
+  {
+    "questionId": 8,
+    "questionText": "Apa nama lautan terbesar di dunia?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Samudra Atlantik"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Samudra Hindia"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Samudra Pasifik"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Samudra Arktik"
+      }
+    ]
+  },
+  {
+    "questionId": 9,
+    "questionText": "Siapa penulis novel 'Laskar Pelangi'?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Tere Liye"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Andrea Hirata"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Dee Lestari"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Habiburrahman El Shirazy"
+      }
+    ]
+  },
+  {
+    "questionId": 10,
+    "questionText": "Berapa banyak tulang dalam tubuh manusia dewasa?",
+    "keyId": 4,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "196"
+      },
+      {
+        "answerId": 2,
+        "answerText": "210"
+      },
+      {
+        "answerId": 3,
+        "answerText": "225"
+      },
+      {
+        "answerId": 4,
+        "answerText": "206"
+      }
+    ]
+  },
+  {
+    "questionId": 11,
+    "questionText": "Apa simbol kimia dari unsur emas?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Ag"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Pb"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Au"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Fe"
+      }
+    ]
+  },
+  {
+    "questionId": 12,
+    "questionText": "Dimana letak Candi Borobudur?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Magelang"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Yogyakarta"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Solo"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Semarang"
+      }
+    ]
+  },
+  {
+    "questionId": 13,
+    "questionText": "Apa nama ibu kota Australia?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Sydney"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Canberra"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Melbourne"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Brisbane"
+      }
+    ]
+  },
+  {
+    "questionId": 14,
+    "questionText": "Siapa pengarang novel 'Harry Potter'?",
+    "keyId": 4,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "J.R.R. Tolkien"
+      },
+      {
+        "answerId": 2,
+        "answerText": "George R.R. Martin"
+      },
+      {
+        "answerId": 3,
+        "answerText": "C.S. Lewis"
+      },
+      {
+        "answerId": 4,
+        "answerText": "J.K. Rowling"
+      }
+    ]
+  },
+  {
+    "questionId": 15,
+    "questionText": "Gas utama yang terdapat di atmosfer Bumi adalah?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Nitrogen"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Oksigen"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Karbon dioksida"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Hidrogen"
+      }
+    ]
+  },
+  {
+    "questionId": 16,
+    "questionText": "Sungai terpanjang di dunia adalah?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Sungai Nil"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Sungai Mississippi"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Sungai Amazon"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Sungai Yangtze"
+      }
+    ]
+  },
+  {
+    "questionId": 17,
+    "questionText": "Apa nama mata uang Jepang?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Won"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Yen"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Rupiah"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Yuan"
+      }
+    ]
+  },
+  {
+    "questionId": 18,
+    "questionText": "Siapa penulis novel 'Sang Pemimpi'?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Tere Liye"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Andrea Hirata"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Dee Lestari"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Habiburrahman El Shirazy"
+      }
+    ]
+  },
+  {
+    "questionId": 19,
+    "questionText": "Dalam ilmu biologi, apa nama proses tumbuhan yang membuat makanan sendiri?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Respirasi"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Transpirasi"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Fotosintesis"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Fermentasi"
+      }
+    ]
+  },
+  {
+    "questionId": 20,
+    "questionText": "Apa nama gunung tertinggi di dunia?",
+    "keyId": 4,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Gunung Kilimanjaro"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Gunung Fuji"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Gunung Denali"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Gunung Everest"
+      }
+    ]
+  },
+  {
+    "questionId": 21,
+    "questionText": "Apa nama ibu kota dari negara Malaysia?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Penang"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Kuala Lumpur"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Johor Bahru"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Kuching"
+      }
+    ]
+  },
+  {
+    "questionId": 22,
+    "questionText": "Apa nama sel yang bertanggung jawab untuk membawa oksigen dalam darah?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Sel darah merah"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Sel darah putih"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Trombosit"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Plasma"
+      }
+    ]
+  },
+  {
+    "questionId": 23,
+    "questionText": "Siapa pencipta teori evolusi?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Isaac Newton"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Gregor Mendel"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Charles Darwin"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Alfred Russel Wallace"
+      }
+    ]
+  },
+  {
+    "questionId": 24,
+    "questionText": "Apa nama ibu kota dari negara India?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Mumbai"
+      },
+      {
+        "answerId": 2,
+        "answerText": "New Delhi"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Kolkata"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Bangalore"
+      }
+    ]
+  },
+  {
+    "questionId": 25,
+    "questionText": "Benua terkecil di dunia adalah?",
+    "keyId": 4,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Afrika"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Eropa"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Amerika Selatan"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Australia"
+      }
+    ]
+  },
+  {
+    "questionId": 26,
+    "questionText": "Siapa presiden Amerika Serikat ke-44?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Barack Obama"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Donald Trump"
+      },
+      {
+        "answerId": 3,
+        "answerText": "George W. Bush"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Bill Clinton"
+      }
+    ]
+  },
+  {
+    "questionId": 27,
+    "questionText": "Tahun berapa Perang Dunia II dimulai?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "1914"
+      },
+      {
+        "answerId": 2,
+        "answerText": "1941"
+      },
+      {
+        "answerId": 3,
+        "answerText": "1939"
+      },
+      {
+        "answerId": 4,
+        "answerText": "1945"
+      }
+    ]
+  },
+  {
+    "questionId": 28,
+    "questionText": "Siapa penemu mesin uap?",
+    "keyId": 4,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Thomas Alva Edison"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Nikola Tesla"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Alexander Graham Bell"
+      },
+      {
+        "answerId": 4,
+        "answerText": "James Watt"
+      }
+    ]
+  },
+  {
+    "questionId": 29,
+    "questionText": "Negara mana yang terkenal dengan julukan 'Negeri Matahari Terbit'?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Jepang"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Korea Selatan"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Tiongkok"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Vietnam"
+      }
+    ]
+  },
+  {
+    "questionId": 30,
+    "questionText": "Siapa yang dikenal sebagai Bapak Mikroprosesor?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Steve Jobs"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Gordon Moore"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Bill Gates"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Paul Allen"
+      }
+    ]
+  },
+  {
+    "questionId": 31,
+    "questionText": "Siapa ilmuwan yang terkenal dengan hukum geraknya?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Albert Einstein"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Galileo Galilei"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Isaac Newton"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Niels Bohr"
+      }
+    ]
+  },
+  {
+    "questionId": 32,
+    "questionText": "Apa nama jaringan terbesar di dunia yang menghubungkan komputer satu dengan yang lainnya?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Internet"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Intranet"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Extranet"
+      },
+      {
+        "answerId": 4,
+        "answerText": "LAN"
+      }
+    ]
+  },
+  {
+    "questionId": 33,
+    "questionText": "Siapa penemu telepon?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Nikola Tesla"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Guglielmo Marconi"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Alexander Graham Bell"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Thomas Alva Edison"
+      }
+    ]
+  },
+  {
+    "questionId": 34,
+    "questionText": "Apa nama benua yang terletak di antara Samudra Atlantik dan Samudra Pasifik?",
+    "keyId": 4,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Asia"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Afrika"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Eropa"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Amerika"
+      }
+    ]
+  },
+  {
+    "questionId": 35,
+    "questionText": "Apa nama organ yang berfungsi sebagai pusat sistem saraf pada manusia?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Jantung"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Otak"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Hati"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Ginjal"
+      }
+    ]
+  },
+  {
+    "questionId": 36,
+    "questionText": "Apa nama sungai terpanjang di Afrika?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Sungai Nil"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Sungai Kongo"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Sungai Niger"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Sungai Zambezi"
+      }
+    ]
+  },
+  {
+    "questionId": 37,
+    "questionText": "Siapa penulis novel '1984'?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Aldous Huxley"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Ray Bradbury"
+      },
+      {
+        "answerId": 3,
+        "answerText": "George Orwell"
+      },
+      {
+        "answerId": 4,
+        "answerText": "H.G. Wells"
+      }
+    ]
+  },
+  {
+    "questionId": 38,
+    "questionText": "Siapa yang dikenal sebagai Bapak Teori Evolusi?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Gregor Mendel"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Charles Darwin"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Jean-Baptiste Lamarck"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Alfred Russel Wallace"
+      }
+    ]
+  },
+  {
+    "questionId": 39,
+    "questionText": "Apa nama elemen kimia dengan simbol 'O'?",
+    "keyId": 4,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Osmium"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Oganesson"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Oksidan"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Oksigen"
+      }
+    ]
+  },
+  {
+    "questionId": 40,
+    "questionText": "Apa nama ibu kota dari negara Brazil?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Rio de Janeiro"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Brasília"
+      },
+      {
+        "answerId": 3,
+        "answerText": "São Paulo"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Salvador"
+      }
+    ]
+  },
+  {
+    "questionId": 41,
+    "questionText": "Siapa yang dikenal sebagai penemu benua Amerika?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Ferdinand Magellan"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Vasco da Gama"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Christopher Columbus"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Amerigo Vespucci"
+      }
+    ]
+  },
+  {
+    "questionId": 42,
+    "questionText": "Apa nama bahasa yang paling banyak digunakan di dunia?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Mandarin"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Inggris"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Spanyol"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Hindi"
+      }
+    ]
+  },
+  {
+    "questionId": 43,
+    "questionText": "Apa nama elemen kimia dengan simbol 'Fe'?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Fluorin"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Fermium"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Besi"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Flerovium"
+      }
+    ]
+  },
+  {
+    "questionId": 44,
+    "questionText": "Siapa penulis 'The Great Gatsby'?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Ernest Hemingway"
+      },
+      {
+        "answerId": 2,
+        "answerText": "F. Scott Fitzgerald"
+      },
+      {
+        "answerId": 3,
+        "answerText": "William Faulkner"
+      },
+      {
+        "answerId": 4,
+        "answerText": "John Steinbeck"
+      }
+    ]
+  },
+  {
+    "questionId": 45,
+    "questionText": "Apa nama sungai terpanjang di Asia?",
+    "keyId": 4,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Sungai Gangga"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Sungai Mekong"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Sungai Indus"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Sungai Yangtze"
+      }
+    ]
+  },
+  {
+    "questionId": 46,
+    "questionText": "Apa nama planet yang paling dekat dengan Matahari?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Merkurius"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Venus"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Bumi"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Mars"
+      }
+    ]
+  },
+  {
+    "questionId": 47,
+    "questionText": "Apa nama negara terbesar di dunia berdasarkan luas wilayah?",
+    "keyId": 3,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Amerika Serikat"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Kanada"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Rusia"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Tiongkok"
+      }
+    ]
+  },
+  {
+    "questionId": 48,
+    "questionText": "Apa nama benua yang paling banyak penduduknya?",
+    "keyId": 4,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Amerika Utara"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Eropa"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Afrika"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Asia"
+      }
+    ]
+  },
+  {
+    "questionId": 49,
+    "questionText": "Apa nama mata uang Inggris?",
+    "keyId": 2,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Euro"
+      },
+      {
+        "answerId": 2,
+        "answerText": "Pound Sterling"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Dollar Amerika"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Franc Swiss"
+      }
+    ]
+  },
+  {
+    "questionId": 50,
+    "questionText": "Apa nama negara dengan jumlah penduduk terbanyak di dunia?",
+    "keyId": 1,
+    "answers": [
+      {
+        "answerId": 1,
+        "answerText": "Tiongkok"
+      },
+      {
+        "answerId": 2,
+        "answerText": "India"
+      },
+      {
+        "answerId": 3,
+        "answerText": "Amerika Serikat"
+      },
+      {
+        "answerId": 4,
+        "answerText": "Indonesia"
+      }
+    ]
+  }
 ]
