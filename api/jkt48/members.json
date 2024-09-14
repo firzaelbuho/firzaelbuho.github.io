@@ -1316,6 +1316,7 @@
           "Aralie"
       ],
       "birthday": "2008-08-06",
+      "birthplace": "",
 
       "bloodtype": "B",
       "zodiacSign": "Leo",
@@ -1346,6 +1347,7 @@
           "Delynn"
       ],
       "birthday": "2007-09-01",
+      "birthplace": "",
 
       "bloodtype": "B",
       "zodiacSign": "Virgo",
@@ -1410,7 +1412,7 @@
           "Erni"
       ],
       "birthday": "2007-08-21",
-
+      "birthplace": "",
       "bloodtype": "B",
       "zodiacSign": "Leo",
       "height": 163,
@@ -1505,6 +1507,7 @@
           "Trisha"
       ],
       "birthday": "2011-02-16",
+      "birthplace": "",
 
       "bloodtype": "O",
       "zodiacSign": "Aquarius",
@@ -1535,6 +1538,7 @@
           "Moreen"
       ],
       "birthday": "2010-06-07",
+      "birthplace": "",
 
       "bloodtype": "O",
       "zodiacSign": "Gemini",
@@ -1628,7 +1632,7 @@
           "Nachia"
       ],
       "birthday": "2009-10-16",
-
+      "birthplace": "",
       "bloodtype": "O",
       "zodiacSign": "Libra",
       "height": 162,
@@ -1660,7 +1664,7 @@
           "Oline"
       ],
       "birthday": "2007-11-03",
- 
+      "birthplace": "",
       "bloodtype": "B",
       "zodiacSign": "Scorpio",
       "height": 167,
@@ -1724,7 +1728,7 @@
           "Ribi"
       ],
       "birthday": "2009-01-13",
-
+      "birthplace": "",
       "bloodtype": "O",
       "zodiacSign": "Capricorn",
       "height": 163,
@@ -1755,7 +1759,7 @@
           "Nala"
       ],
       "birthday": "2008-09-01",
-
+      "birthplace": "",
       "bloodtype": "B",
       "zodiacSign": "Virgo",
       "height": 160,
@@ -1786,7 +1790,7 @@
           "Kimmy"
       ],
       "birthday": "2010-03-08",
-
+      "birthplace": "",
       "bloodtype": "AB",
       "zodiacSign": "Pisces",
       "height": 158,
