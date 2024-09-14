@@ -902,7 +902,7 @@
       "birthplace": "Tangerang, Banten, Indonesia",
       "bloodtype": "AB",
       "zodiacSign": "Scorpio",
-      "height": "167 cm",
+      "height": 167,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -933,7 +933,7 @@
       "birthplace": "Jakarta, Indonesia",
       "bloodtype": "A",
       "zodiacSign": "Virgo",
-      "height": "165 cm",
+      "height": 165,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -968,7 +968,7 @@
       "birthplace": "Depok, West Java, Indonesia",
       "bloodtype": "O",
       "zodiacSign": "Libra",
-      "height": "154 cm",
+      "height": 154,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -999,7 +999,7 @@
       "birthplace": "Surabaya, East Java, Indonesia",
       "bloodtype": "A",
       "zodiacSign": "Taurus",
-      "height": "158 cm",
+      "height": 158,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1030,7 +1030,7 @@
       "birthplace": "Tangerang, Banten, Indonesia",
       "bloodtype": "O",
       "zodiacSign": "Aries",
-      "height": "163 cm",
+      "height": 163,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1060,7 +1060,7 @@
       "birthplace": "Sydney, Australia",
       "bloodtype": "B",
       "zodiacSign": "Capricorn",
-      "height": "168 cm",
+      "height": 168,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1094,7 +1094,7 @@
       "birthplace": "Jakarta, Indonesia",
       "bloodtype": "O",
       "zodiacSign": "Scorpio",
-      "height": "158 cm",
+      "height": 158,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1126,7 +1126,7 @@
  
       "bloodtype": "O",
       "zodiacSign": "Sagittarius",
-      "height": "162 cm",
+      "height": 162",
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1159,7 +1159,7 @@
 
       "bloodtype": "O",
       "zodiacSign": "Sagittarius",
-      "height": "165 cm",
+      "height": 165,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1191,7 +1191,7 @@
       "birthplace": "Jakarta, Indonesia",
       "bloodtype": "B",
       "zodiacSign": "Cancer",
-      "height": "160 cm",
+      "height": 160,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1223,7 +1223,7 @@
       "birthplace": "Tangerang, Banten, Indonesia",
       "bloodtype": "B",
       "zodiacSign": "Libra",
-      "height": "165 cm",
+      "height": 165,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1255,7 +1255,7 @@
       "birthplace": "Bogor, West Java, Indonesia",
       "bloodtype": "O",
       "zodiacSign": "Capricorn",
-      "height": "165 cm",
+      "height": 165,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1289,7 +1289,7 @@
 
       "bloodtype": "O",
       "zodiacSign": "Taurus",
-      "height": "160 cm",
+      "height": 160,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1319,7 +1319,7 @@
 
       "bloodtype": "B",
       "zodiacSign": "Leo",
-      "height": "161 cm",
+      "height": 161",
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1349,7 +1349,7 @@
 
       "bloodtype": "B",
       "zodiacSign": "Virgo",
-      "height": "167 cm",
+      "height": 167,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1382,7 +1382,7 @@
       "birthplace": "Jakarta, Indonesia",
 
       "zodiacSign": "Virgo",
-      "height": "163 cm",
+      "height": 163,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1413,7 +1413,7 @@
 
       "bloodtype": "B",
       "zodiacSign": "Leo",
-      "height": "163 cm",
+      "height": 163,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1445,7 +1445,7 @@
       "birthplace": "Jakarta, Indonesia",
       "bloodtype": "A",
       "zodiacSign": "Leo",
-      "height": "157 cm",
+      "height": 157,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1477,7 +1477,7 @@
 
       "bloodtype": "O",
       "zodiacSign": "Libra",
-      "height": "160 cm",
+      "height": 160,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1508,7 +1508,7 @@
 
       "bloodtype": "O",
       "zodiacSign": "Aquarius",
-      "height": "167 cm",
+      "height": 167,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1538,7 +1538,7 @@
 
       "bloodtype": "O",
       "zodiacSign": "Gemini",
-      "height": "160 cm",
+      "height": 160,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1568,7 +1568,7 @@
       "birthplace": "Tangerang, Banten, Indonesia",
       "bloodtype": "O",
       "zodiacSign": "Aquarius",
-      "height": "168 cm",
+      "height": 168,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1600,7 +1600,7 @@
       "birthplace": "Kumamoto, Japan",
       "bloodtype": "AB",
       "zodiacSign": "Gemini",
-      "height": "161 cm",
+      "height": 161,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1631,7 +1631,7 @@
 
       "bloodtype": "O",
       "zodiacSign": "Libra",
-      "height": "162 cm",
+      "height": 162,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1663,7 +1663,7 @@
  
       "bloodtype": "B",
       "zodiacSign": "Scorpio",
-      "height": "167 cm",
+      "height": 167,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1694,7 +1694,7 @@
       "birthplace": "Surakarta, Central Java, Indonesia",
       "bloodtype": "B",
       "zodiacSign": "Sagittarius",
-      "height": "170 cm",
+      "height": 170,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1727,7 +1727,7 @@
 
       "bloodtype": "O",
       "zodiacSign": "Capricorn",
-      "height": "163 cm",
+      "height": 163,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1758,7 +1758,7 @@
 
       "bloodtype": "B",
       "zodiacSign": "Virgo",
-      "height": "160 cm",
+      "height": 160,
       "genres": [
           "J-Pop",
           "Indo-Pop"
@@ -1789,7 +1789,7 @@
 
       "bloodtype": "AB",
       "zodiacSign": "Pisces",
-      "height": "158 cm",
+      "height": 158,
       "genres": [
           "J-Pop",
           "Indo-Pop"
