@@ -2,7 +2,7 @@
 
 "members" : [
   {
-      "fullname": "Feni Fitriyanti",
+      "realName": "Feni Fitriyanti",
       "nickname": [
           "Feni",
           "Mpen",
@@ -11,7 +11,6 @@
       ],
       "birthday": "1999-01-16",
       "birthplace": "Cianjur, West Java, Indonesia",
- 	"hometown": "Bekasi, West Java, Indonesia",
 
       "bloodtype": "O",
       "zodiacSign": "Capricorn",
@@ -48,7 +47,7 @@
       "memberId": 0
   },
   {
-      "fullname": "Shania Gracia Harlan",
+      "realName": "Shania Gracia Harlan",
       "nickname": [
           "Gracia",
           "Gre",
@@ -58,6 +57,7 @@
       ],
       "birthday": "1999-08-31",
       "birthplace": "Jakarta, Indonesia",
+
       "bloodtype": "A",
       "zodiacSign": "Virgo",
       "height": 161,
@@ -88,14 +88,14 @@
       "memberId": 1
   },
   {
-      "fullname": "Gita Sekar Andarini",
+      "realName": "Gita Sekar Andarini",
       "nickname": [
           "Gita",
           "Gits"
       ],
       "birthday": "2001-06-30",
       "birthplace": "Jakarta, Indonesia",
-      "hometown": "Bekasi, West Java, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Cancer",
       "height": 165,
@@ -126,7 +126,7 @@
       "memberId": 2
   },
   {
-      "fullname": "Angelina Christy",
+      "realName": "Angelina Christy",
       "nickname": [
           "Christy",
           "Toya",
@@ -137,6 +137,7 @@
       ],
       "birthday": "2005-12-05",
       "birthplace": "Jakarta, Indonesia",
+    
       "bloodtype": "O",
       "zodiacSign": "Sagittarius",
       "height": 168,
@@ -165,7 +166,7 @@
       "memberId": 3
   },
   {
-      "fullname": "Azizi Shafaa Asadel",
+      "realName": "Azizi Shafaa Asadel",
       "nickname": [
           "Zee",
           "Azizi",
@@ -176,6 +177,7 @@
       ],
       "birthday": "2004-05-16",
       "birthplace": "Jakarta, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Taurus",
       "height": 162,
@@ -204,7 +206,7 @@
       "memberId": 4
   },
   {
-      "fullname": "Febriola Sinambela",
+      "realName": "Febriola Sinambela",
       "nickname": [
           "Olla",
           "Olali",
@@ -212,6 +214,7 @@
       ],
       "birthday": "2005-02-26",
       "birthplace": "Jakarta, Indonesia",
+ 
       "bloodtype": "B",
       "zodiacSign": "Pisces",
       "height": 154,
@@ -238,7 +241,7 @@
       "memberId": 5
   },
   {
-      "fullname": "Raden Rara Freyanashifa Jayawardana",
+      "realName": "Raden Rara Freyanashifa Jayawardana",
       "nickname": [
           "Freya",
           "Frey",
@@ -248,7 +251,7 @@
       ],
       "birthday": "2006-02-13",
       "birthplace": "Jakarta, Indonesia",
-      "hometown": "Tangerang, Banten, Indonesia",
+
       "bloodtype": "B",
       "zodiacSign": "Aquarius",
       "height": 154,
@@ -276,7 +279,7 @@
       "memberId": 6
   },
   {
-      "fullname": "Helisma Mauludzunia Putri Kurnia",
+      "realName": "Helisma Mauludzunia Putri Kurnia",
       "nickname": [
           "Eli",
           "Helisma",
@@ -284,6 +287,7 @@
       ],
       "birthday": "2000-06-15",
       "birthplace": "Bandung, West Java, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Gemini",
       "height": 165,
@@ -309,7 +313,7 @@
       "memberId": 7
   },
   {
-      "fullname": "Jessica Rich Chandra",
+      "realName": "Jessica Rich Chandra",
       "nickname": [
           "Jessi",
           "Jeci",
@@ -318,6 +322,7 @@
       ],
       "birthday": "2005-09-23",
       "birthplace": "Jakarta, Indonesia",
+    
       "bloodtype": "O",
       "zodiacSign": "Virgo",
       "height": 163,
@@ -346,7 +351,7 @@
       "memberId": 8
   },
   {
-      "fullname": "Mutiara Azzahra Umandana",
+      "realName": "Mutiara Azzahra Umandana",
       "nickname": [
           "Muthe",
           "Mumuchang",
@@ -355,7 +360,7 @@
       ],
       "birthday": "2004-07-12",
       "birthplace": "Jakarta, Indonesia",
-      "hometown": "Bekasi, West Java, Indonesia",
+
       "bloodtype": "B",
       "zodiacSign": "Cancer",
       "height": 163,
@@ -384,7 +389,7 @@
       "memberId": 9
   },
   {
-      "fullname": "Cornelia Syafa Vanisa",
+      "realName": "Cornelia Syafa Vanisa",
       "nickname": [
           "Oniel",
           "Onyil",
@@ -392,7 +397,7 @@
       ],
       "birthday": "2002-07-26",
       "birthplace": "Tangerang, Banten, Indonesia",
-      "hometown": "Surabaya, East Java, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Leo",
       "height": 162,
@@ -420,7 +425,7 @@
       "memberId": 10
   },
   {
-      "fullname": "Fiony Alveria Tantri",
+      "realName": "Fiony Alveria Tantri",
       "nickname": [
           "Fiony",
           "Cepio",
@@ -430,6 +435,7 @@
       ],
       "birthday": "2002-02-04",
       "birthplace": "Jakarta, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Aquarius",
       "height": 160,
@@ -457,12 +463,13 @@
       "memberId": 11
   },
   {
-      "fullname": "Flora Shafiqa Riyadi",
+      "realName": "Flora Shafiqa Riyadi",
       "nickname": [
           "Flora"
       ],
       "birthday": "2005-04-04",
       "birthplace": "Tangerang, Banten, Indonesia",
+
       "bloodtype": "B",
       "zodiacSign": "Aries",
       "height": 152,
@@ -489,13 +496,12 @@
       "memberId": 12
   },
   {
-      "fullname": "Lulu Azkiya Salsabila",
+      "realName": "Lulu Azkiya Salsabila",
       "nickname": [
           "Lulu"
       ],
       "birthday": "2002-10-23",
       "birthplace": "Serang, Banten, Indonesia",
-      "hometown": "Bengkulu, Indonesia",
       "bloodtype": "B",
       "zodiacSign": "Libra",
       "height": 157,
@@ -521,7 +527,7 @@
       "memberId": 13
   },
   {
-      "fullname": "Reva Fidela Adel Pantjoro",
+      "realName": "Reva Fidela Adel Pantjoro",
       "nickname": [
           "Adel",
           "Dedel",
@@ -560,7 +566,7 @@
       "memberId": 14
   },
   {
-      "fullname": "Indah Cahya Nabilla",
+      "realName": "Indah Cahya Nabilla",
       "nickname": [
           "Indah",
           "Ondah",
@@ -568,7 +574,7 @@
       ],
       "birthday": "2001-03-20",
       "birthplace": "Jambi, Indonesia",
-      "hometown": "Kerinci, Jambi, Indonesia",
+
       "bloodtype": "A",
       "zodiacSign": "Pisces",
       "height": 165,
@@ -595,7 +601,7 @@
       "memberId": 15
   },
   {
-      "fullname": "Kathrina Irene Indarto Putri",
+      "realName": "Kathrina Irene Indarto Putri",
       "nickname": [
           "Kathrina",
           "Kathrin",
@@ -636,7 +642,7 @@
       "memberId": 16
   },
   {
-      "fullname": "Marsha Lenathea Lapian",
+      "realName": "Marsha Lenathea Lapian",
       "nickname": [
           "Marsha",
           "Matcha",
@@ -675,14 +681,14 @@
       "memberId": 17
   },
   {
-      "fullname": "Amanda Puspita Sukma Mulyadewi",
+      "realName": "Amanda Puspita Sukma Mulyadewi",
       "nickname": [
           "Amanda",
           "Manda"
       ],
       "birthday": "2004-12-17",
       "birthplace": "Malang, East Java, Indonesia",
-      "hometown": "Bandung, West Java, Indonesia",
+ 
       "bloodtype": "O",
       "zodiacSign": "Sagittarius",
       "height": 160,
@@ -711,7 +717,7 @@
       "memberId": 18
   },
   {
-      "fullname": "Aurellia",
+      "realName": "Aurellia",
       "nickname": [
           "Lia",
           "Aurel",
@@ -745,7 +751,7 @@
       "memberId": 19
   },
   {
-      "fullname": "Callista Alifia Wardhana",
+      "realName": "Callista Alifia Wardhana",
       "nickname": [
           "Callie",
           "Keli",
@@ -754,7 +760,7 @@
       ],
       "birthday": "2005-08-08",
       "birthplace": "Jakarta, Indonesia",
-      "hometown": "Tangerang, Banten, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Leo",
       "height": 157,
@@ -781,7 +787,7 @@
       "memberId": 20
   },
   {
-      "fullname": "Gabriela Abigail Mewengkang",
+      "realName": "Gabriela Abigail Mewengkang",
       "nickname": [
           "Ella",
           "Gaby",
@@ -816,7 +822,7 @@
       "memberId": 21
   },
   {
-      "fullname": "Indira Putri Seruni",
+      "realName": "Indira Putri Seruni",
       "nickname": [
           "Indira",
           "Dira"
@@ -851,7 +857,7 @@
       "memberId": 22
   },
   {
-      "fullname": "Jesslyn Septiani Elly",
+      "realName": "Jesslyn Septiani Elly",
       "nickname": [
           "Lyn",
           "Jesslyn"
@@ -885,7 +891,7 @@
       "memberId": 23
   },
   {
-      "fullname": "Raisha Syifa Wardhana",
+      "realName": "Raisha Syifa Wardhana",
       "nickname": [
           "Raisha",
           "Rai",
@@ -918,7 +924,7 @@
       "memberId": 24
   },
   {
-      "fullname": "Alya Amanda Fatihah",
+      "realName": "Alya Amanda Fatihah",
       "nickname": [
           "Alya",
           "Al"
@@ -951,7 +957,7 @@
       "memberId": 25
   },
   {
-      "fullname": "Anindya Ramadhani Purnomo",
+      "realName": "Anindya Ramadhani Purnomo",
       "nickname": [
           "Anindya",
           "Anin",
@@ -984,7 +990,7 @@
       "memberId": 26
   },
   {
-      "fullname": "Cathleen Hana Nixie",
+      "realName": "Cathleen Hana Nixie",
       "nickname": [
           "Cathy",
           "Cathleen"
@@ -1016,7 +1022,7 @@
       "memberId": 27
   },
   {
-      "fullname": "Celline Thefannie",
+      "realName": "Celline Thefannie",
       "nickname": [
           "Elin"
       ],
@@ -1046,7 +1052,7 @@
       "memberId": 28
   },
   {
-      "fullname": "Chelsea Davina Norman",
+      "realName": "Chelsea Davina Norman",
       "nickname": [
           "Chelsea"
       ],
@@ -1079,7 +1085,7 @@
       "memberId": 29
   },
   {
-      "fullname": "Cynthia",
+      "realName": "Cynthia",
       "nickname": [
           "Cynthia",
           "Ciput"
@@ -1110,14 +1116,14 @@
       "memberId": 30
   },
   {
-      "fullname": "Dena Natalia Ang",
+      "realName": "Dena Natalia Ang",
       "nickname": [
           "Danella",
           "Dena"
       ],
       "birthday": "2005-12-16",
       "birthplace": "Bekasi, West Java, Indonesia",
-      "hometown": "Purwakarta, West Java, Indonesia",
+ 
       "bloodtype": "O",
       "zodiacSign": "Sagittarius",
       "height": "162 cm",
@@ -1143,14 +1149,14 @@
       "memberId": 31
   },
   {
-      "fullname": "Desy Natalia Ang",
+      "realName": "Desy Natalia Ang",
       "nickname": [
           "Daisy",
           "Desy"
       ],
       "birthday": "2005-12-16",
       "birthplace": "Bekasi, West Java, Indonesia",
-      "hometown": "Purwakarta, West Java, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Sagittarius",
       "height": "165 cm",
@@ -1177,7 +1183,7 @@
       "memberId": 32
   },
   {
-      "fullname": "Gendis Mayrannisa Setiawan",
+      "realName": "Gendis Mayrannisa Setiawan",
       "nickname": [
           "Gendis"
       ],
@@ -1208,7 +1214,7 @@
       "memberId": 33
   },
   {
-      "fullname": "Grace Octaviani Tanujaya",
+      "realName": "Grace Octaviani Tanujaya",
       "nickname": [
           "Gracie",
           "Grace"
@@ -1240,7 +1246,7 @@
       "memberId": 34
   },
   {
-      "fullname": "Greesella Sophina Adhalia",
+      "realName": "Greesella Sophina Adhalia",
       "nickname": [
           "Greesel",
           "Icel"
@@ -1273,14 +1279,14 @@
       "memberId": 35
   },
   {
-      "fullname": "Michelle Alexandra Suandi",
+      "realName": "Michelle Alexandra Suandi",
       "nickname": [
           "Michie",
           "Michelle"
       ],
       "birthday": "2009-04-22",
       "birthplace": "Jakarta, Indonesia",
-      "hometown": "Palembang, South Sumatra, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Taurus",
       "height": "160 cm",
@@ -1305,12 +1311,12 @@
       "memberId": 36
   },
   {
-      "fullname": "Abigail Rachel Lie",
+      "realName": "Abigail Rachel Lie",
       "nickname": [
           "Aralie"
       ],
       "birthday": "2008-08-06",
-      "hometown": "Jakarta, Indonesia",
+
       "bloodtype": "B",
       "zodiacSign": "Leo",
       "height": "161 cm",
@@ -1335,12 +1341,12 @@
       "memberId": 37
   },
   {
-      "fullname": "Adeline Wijaya",
+      "realName": "Adeline Wijaya",
       "nickname": [
           "Delynn"
       ],
       "birthday": "2007-09-01",
-      "hometown": "Jakarta, Indonesia",
+
       "bloodtype": "B",
       "zodiacSign": "Virgo",
       "height": "167 cm",
@@ -1366,7 +1372,7 @@
       "memberId": 38
   },
   {
-      "fullname": "Aurhel Alana Tirta",
+      "realName": "Aurhel Alana Tirta",
       "nickname": [
           "Lana",
           "Eonni",
@@ -1374,7 +1380,7 @@
       ],
       "birthday": "2006-09-14",
       "birthplace": "Jakarta, Indonesia",
-      "hometown": "Bekasi, West Java, Indonesia",
+
       "zodiacSign": "Virgo",
       "height": "163 cm",
       "genres": [
@@ -1398,13 +1404,13 @@
       "memberId": 39
   },
   {
-      "fullname": "Catherina Vallencia Kurniawan",
+      "realName": "Catherina Vallencia Kurniawan",
       "nickname": [
           "Erine",
           "Erni"
       ],
       "birthday": "2007-08-21",
-      "hometown": "Bekasi, West Java, Indonesia",
+
       "bloodtype": "B",
       "zodiacSign": "Leo",
       "height": "163 cm",
@@ -1431,7 +1437,7 @@
       "memberId": 40
   },
   {
-      "fullname": "Fritzy Rosmerian",
+      "realName": "Fritzy Rosmerian",
       "nickname": [
           "Fritzy"
       ],
@@ -1462,13 +1468,13 @@
       "memberId": 41
   },
   {
-      "fullname": "Hillary Abigail",
+      "realName": "Hillary Abigail",
       "nickname": [
           "Lily"
       ],
       "birthday": "2007-10-19",
       "birthplace": "New Hampshire, United States of America",
-      "hometown": "Jakarta, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Libra",
       "height": "160 cm",
@@ -1494,12 +1500,12 @@
       "memberId": 42
   },
   {
-      "fullname": "Jazzlyn Agatha Trisha",
+      "realName": "Jazzlyn Agatha Trisha",
       "nickname": [
           "Trisha"
       ],
       "birthday": "2011-02-16",
-      "hometown": "Jakarta, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Aquarius",
       "height": "167 cm",
@@ -1524,12 +1530,12 @@
       "memberId": 43
   },
   {
-      "fullname": "Letycia Moreen Praditya",
+      "realName": "Letycia Moreen Praditya",
       "nickname": [
           "Moreen"
       ],
       "birthday": "2010-06-07",
-      "hometown": "Jakarta, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Gemini",
       "height": "160 cm",
@@ -1554,7 +1560,7 @@
       "memberId": 44
   },
   {
-      "fullname": "Michelle Levia Arifin",
+      "realName": "Michelle Levia Arifin",
       "nickname": [
           "Levi"
       ],
@@ -1585,7 +1591,7 @@
       "memberId": 45
   },
   {
-      "fullname": "Nayla Suji Aurelia",
+      "realName": "Nayla Suji Aurelia",
       "nickname": [
           "Nayla",
           "Nayla-chan"
@@ -1617,12 +1623,12 @@
       "memberId": 46
   },
   {
-      "fullname": "Nina Tutachia Browning Chapman",
+      "realName": "Nina Tutachia Browning Chapman",
       "nickname": [
           "Nachia"
       ],
       "birthday": "2009-10-16",
-      "hometown": "Denpasar, Bali, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Libra",
       "height": "162 cm",
@@ -1649,12 +1655,12 @@
       "memberId": 47
   },
   {
-      "fullname": "Oline Manuel Chay",
+      "realName": "Oline Manuel Chay",
       "nickname": [
           "Oline"
       ],
       "birthday": "2007-11-03",
-      "hometown": "Jakarta, Indonesia",
+ 
       "bloodtype": "B",
       "zodiacSign": "Scorpio",
       "height": "167 cm",
@@ -1680,7 +1686,7 @@
       "memberId": 48
   },
   {
-      "fullname": "Regina Wilian Hapsari",
+      "realName": "Regina Wilian Hapsari",
       "nickname": [
           "Regie"
       ],
@@ -1712,13 +1718,13 @@
       "memberId": 49
   },
   {
-      "fullname": "Ribka Budiman",
+      "realName": "Ribka Budiman",
       "nickname": [
           "Ribka",
           "Ribi"
       ],
       "birthday": "2009-01-13",
-      "hometown": "Bandung, West Java, Indonesia",
+
       "bloodtype": "O",
       "zodiacSign": "Capricorn",
       "height": "163 cm",
@@ -1744,12 +1750,12 @@
       "memberId": 50
   },
   {
-      "fullname": "Shabilqis Naila Bustami",
+      "realName": "Shabilqis Naila Bustami",
       "nickname": [
           "Nala"
       ],
       "birthday": "2008-09-01",
-      "hometown": "Jakarta, Indonesia",
+
       "bloodtype": "B",
       "zodiacSign": "Virgo",
       "height": "160 cm",
@@ -1775,12 +1781,12 @@
       "memberId": 51
   },
   {
-      "fullname": "Victoria Kimberly",
+      "realName": "Victoria Kimberly",
       "nickname": [
           "Kimmy"
       ],
       "birthday": "2010-03-08",
-      "hometown": "Jakarta, Indonesia",
+
       "bloodtype": "AB",
       "zodiacSign": "Pisces",
       "height": "158 cm",
