@@ -1,4 +1,6 @@
-[
+{
+
+"members" = [
   {
       "realName": "Feni Fitriyanti",
       "nickname": [
@@ -1801,3 +1803,5 @@
       "memberId": 52
   }
 ]
+
+}
