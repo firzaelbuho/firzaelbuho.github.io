@@ -22,7 +22,7 @@
           "Hip-Hop",
           "R&B"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Feni JKT48",
           "FENI QUADLIPS"
       ],
@@ -65,7 +65,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Gracia JKT48"
       ],
       "occupation": [
@@ -103,7 +103,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Gita JKT48"
       ],
       "occupation": [
@@ -145,7 +145,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Christy JKT48"
       ],
       "occupation": [
@@ -185,7 +185,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Zee JKT48"
       ],
       "occupation": [
@@ -222,7 +222,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Olla JKT48"
       ],
       "occupation": [
@@ -259,7 +259,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Freya JKT48"
       ],
       "occupation": [
@@ -294,7 +294,7 @@
       "genres": [
           "J-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Helisma JKT48"
       ],
       "occupation": [
@@ -330,7 +330,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Jessi JKT48"
       ],
       "occupation": [
@@ -368,7 +368,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Muthe JKT48"
       ],
       "occupation": [
@@ -405,7 +405,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Oniel JKT48"
       ],
       "occupation": [
@@ -443,7 +443,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Fiony JKT48"
       ],
       "occupation": [
@@ -477,7 +477,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Flora JKT48"
       ],
       "occupation": [
@@ -508,7 +508,7 @@
       "genres": [
           "J-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Lulu JKT48"
       ],
       "occupation": [
@@ -542,7 +542,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Adel JKT48"
       ],
       "occupation": [
@@ -582,7 +582,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Indah JKT48"
       ],
       "occupation": [
@@ -617,7 +617,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Kathrina JKT48"
       ],
       "occupation": [
@@ -658,7 +658,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Marsha JKT48"
       ],
       "occupation": [
@@ -696,7 +696,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Amanda JKT48"
       ],
       "occupation": [
@@ -732,7 +732,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Lia JKT48"
       ],
       "occupation": [
@@ -768,7 +768,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Callie JKT48"
       ],
       "occupation": [
@@ -802,7 +802,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Ella JKT48"
       ],
       "occupation": [
@@ -836,7 +836,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Indira JKT48"
       ],
       "occupation": [
@@ -871,7 +871,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": [
+      "stageNames": [
           "Lyn JKT48"
       ],
       "occupation": [
@@ -907,7 +907,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Raisha JKT48",
+      "stageNames": ["Raisha JKT48"],
       "occupation": [
           "Singer",
           "Idol"
@@ -938,7 +938,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Alya JKT48",
+      "stageNames": ["Alya JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -973,7 +973,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Anindya JKT48",
+      "stageNames": ["Anindya JKT48"],
       "occupation": [
           "Singer",
           "Idol"
@@ -1004,7 +1004,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Cathy JKT48",
+      "stageNames": ["Cathy JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1035,7 +1035,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Elin JKT48",
+      "stageNames": ["Elin JKT48"],
       "occupation": [
           "Singer",
           "Idol"
@@ -1065,7 +1065,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Chelsea JKT48",
+      "stageNames": ["Chelsea JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1099,7 +1099,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Cynthia JKT48",
+      "stageNames": ["Cynthia JKT48"],
       "occupation": [
           "Singer",
           "Idol"
@@ -1131,7 +1131,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Danella JKT48",
+      "stageNames": ["Danella JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1164,7 +1164,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Daisy JKT48",
+      "stageNames": ["Daisy JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1196,7 +1196,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Gendis JKT48",
+      "stageNames": ["Gendis JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1228,7 +1228,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Gracie JKT48",
+      "stageNames": ["Gracie JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1260,7 +1260,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Greesel JKT48",
+      "stageNames": ["Greesel JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1294,7 +1294,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Michie JKT48",
+      "stageNames": ["Michie JKT48"],
       "occupation": [
           "Singer",
           "Idol"
@@ -1324,7 +1324,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Aralie JKT48",
+      "stageNames": ["Aralie JKT48"],
       "occupation": [
           "Singer",
           "Idol"
@@ -1354,7 +1354,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Delynn JKT48",
+      "stageNames": ["Delynn JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1387,7 +1387,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Lana JKT48",
+      "stageNames": ["Lana JKT48"],
       "occupation": [
           "Singer",
           "Idol"
@@ -1418,7 +1418,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Erine JKT48",
+      "stageNames": ["Erine JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1450,7 +1450,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Fritzy JKT48",
+      "stageNames": ["Fritzy JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1482,7 +1482,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Lily JKT48",
+      "stageNames": ["Lily JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1513,7 +1513,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Trisha JKT48",
+      "stageNames": ["Trisha JKT48"],
       "occupation": [
           "Singer",
           "Idol"
@@ -1543,7 +1543,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Moreen JKT48",
+      "stageNames": ["Moreen JKT48"],
       "occupation": [
           "Singer",
           "Idol"
@@ -1573,7 +1573,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Levi JKT48",
+      "stageNames": ["Levi JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1605,7 +1605,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Nayla JKT48",
+      "stageNames": ["Nayla JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1636,7 +1636,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Nachia JKT48",
+      "stageNames": ["Nachia JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1668,7 +1668,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Oline JKT48",
+      "stageNames": ["Oline JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1699,7 +1699,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Regie JKT48",
+      "stageNames": ["Regie JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1732,7 +1732,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Ribka JKT48",
+      "stageNames": ["Ribka JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1763,7 +1763,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Nala JKT48",
+      "stageNames": ["Nala JKT48"],
       "occupation": [
           "Singer",
           "Idol",
@@ -1794,7 +1794,7 @@
           "J-Pop",
           "Indo-Pop"
       ],
-      "currentStageName": "Kimmy JKT48",
+      "stageNames": ["Kimmy JKT48"],
       "occupation": [
           "Singer",
           "Idol"
