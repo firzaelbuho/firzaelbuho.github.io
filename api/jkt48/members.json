@@ -2,7 +2,7 @@
 
 "members" = [
   {
-      "realName": "Feni Fitriyanti",
+      "fullname": "Feni Fitriyanti",
       "nickname": [
           "Feni",
           "Mpen",
@@ -46,7 +46,7 @@
       "memberId": 0
   },
   {
-      "realName": "Shania Gracia Harlan",
+      "fullname": "Shania Gracia Harlan",
       "nickname": [
           "Gracia",
           "Gre",
@@ -86,7 +86,7 @@
       "memberId": 1
   },
   {
-      "realName": "Gita Sekar Andarini",
+      "fullname": "Gita Sekar Andarini",
       "nickname": [
           "Gita",
           "Gits"
@@ -124,7 +124,7 @@
       "memberId": 2
   },
   {
-      "realName": "Angelina Christy",
+      "fullname": "Angelina Christy",
       "nickname": [
           "Christy",
           "Toya",
@@ -163,7 +163,7 @@
       "memberId": 3
   },
   {
-      "realName": "Azizi Shafaa Asadel",
+      "fullname": "Azizi Shafaa Asadel",
       "nickname": [
           "Zee",
           "Azizi",
@@ -202,7 +202,7 @@
       "memberId": 4
   },
   {
-      "realName": "Febriola Sinambela",
+      "fullname": "Febriola Sinambela",
       "nickname": [
           "Olla",
           "Olali",
@@ -236,7 +236,7 @@
       "memberId": 5
   },
   {
-      "realName": "Raden Rara Freyanashifa Jayawardana",
+      "fullname": "Raden Rara Freyanashifa Jayawardana",
       "nickname": [
           "Freya",
           "Frey",
@@ -274,7 +274,7 @@
       "memberId": 6
   },
   {
-      "realName": "Helisma Mauludzunia Putri Kurnia",
+      "fullname": "Helisma Mauludzunia Putri Kurnia",
       "nickname": [
           "Eli",
           "Helisma",
@@ -307,7 +307,7 @@
       "memberId": 7
   },
   {
-      "realName": "Jessica Rich Chandra",
+      "fullname": "Jessica Rich Chandra",
       "nickname": [
           "Jessi",
           "Jeci",
@@ -344,7 +344,7 @@
       "memberId": 8
   },
   {
-      "realName": "Mutiara Azzahra Umandana",
+      "fullname": "Mutiara Azzahra Umandana",
       "nickname": [
           "Muthe",
           "Mumuchang",
@@ -382,7 +382,7 @@
       "memberId": 9
   },
   {
-      "realName": "Cornelia Syafa Vanisa",
+      "fullname": "Cornelia Syafa Vanisa",
       "nickname": [
           "Oniel",
           "Onyil",
@@ -418,7 +418,7 @@
       "memberId": 10
   },
   {
-      "realName": "Fiony Alveria Tantri",
+      "fullname": "Fiony Alveria Tantri",
       "nickname": [
           "Fiony",
           "Cepio",
@@ -455,7 +455,7 @@
       "memberId": 11
   },
   {
-      "realName": "Flora Shafiqa Riyadi",
+      "fullname": "Flora Shafiqa Riyadi",
       "nickname": [
           "Flora"
       ],
@@ -487,7 +487,7 @@
       "memberId": 12
   },
   {
-      "realName": "Lulu Azkiya Salsabila",
+      "fullname": "Lulu Azkiya Salsabila",
       "nickname": [
           "Lulu"
       ],
@@ -519,7 +519,7 @@
       "memberId": 13
   },
   {
-      "realName": "Reva Fidela Adel Pantjoro",
+      "fullname": "Reva Fidela Adel Pantjoro",
       "nickname": [
           "Adel",
           "Dedel",
@@ -558,7 +558,7 @@
       "memberId": 14
   },
   {
-      "realName": "Indah Cahya Nabilla",
+      "fullname": "Indah Cahya Nabilla",
       "nickname": [
           "Indah",
           "Ondah",
@@ -593,7 +593,7 @@
       "memberId": 15
   },
   {
-      "realName": "Kathrina Irene Indarto Putri",
+      "fullname": "Kathrina Irene Indarto Putri",
       "nickname": [
           "Kathrina",
           "Kathrin",
@@ -634,7 +634,7 @@
       "memberId": 16
   },
   {
-      "realName": "Marsha Lenathea Lapian",
+      "fullname": "Marsha Lenathea Lapian",
       "nickname": [
           "Marsha",
           "Matcha",
@@ -673,7 +673,7 @@
       "memberId": 17
   },
   {
-      "realName": "Amanda Puspita Sukma Mulyadewi",
+      "fullname": "Amanda Puspita Sukma Mulyadewi",
       "nickname": [
           "Amanda",
           "Manda"
@@ -709,7 +709,7 @@
       "memberId": 18
   },
   {
-      "realName": "Aurellia",
+      "fullname": "Aurellia",
       "nickname": [
           "Lia",
           "Aurel",
@@ -743,7 +743,7 @@
       "memberId": 19
   },
   {
-      "realName": "Callista Alifia Wardhana",
+      "fullname": "Callista Alifia Wardhana",
       "nickname": [
           "Callie",
           "Keli",
@@ -779,7 +779,7 @@
       "memberId": 20
   },
   {
-      "realName": "Gabriela Abigail Mewengkang",
+      "fullname": "Gabriela Abigail Mewengkang",
       "nickname": [
           "Ella",
           "Gaby",
@@ -814,7 +814,7 @@
       "memberId": 21
   },
   {
-      "realName": "Indira Putri Seruni",
+      "fullname": "Indira Putri Seruni",
       "nickname": [
           "Indira",
           "Dira"
@@ -849,7 +849,7 @@
       "memberId": 22
   },
   {
-      "realName": "Jesslyn Septiani Elly",
+      "fullname": "Jesslyn Septiani Elly",
       "nickname": [
           "Lyn",
           "Jesslyn"
@@ -883,7 +883,7 @@
       "memberId": 23
   },
   {
-      "realName": "Raisha Syifa Wardhana",
+      "fullname": "Raisha Syifa Wardhana",
       "nickname": [
           "Raisha",
           "Rai",
@@ -916,7 +916,7 @@
       "memberId": 24
   },
   {
-      "realName": "Alya Amanda Fatihah",
+      "fullname": "Alya Amanda Fatihah",
       "nickname": [
           "Alya",
           "Al"
@@ -949,7 +949,7 @@
       "memberId": 25
   },
   {
-      "realName": "Anindya Ramadhani Purnomo",
+      "fullname": "Anindya Ramadhani Purnomo",
       "nickname": [
           "Anindya",
           "Anin",
@@ -982,7 +982,7 @@
       "memberId": 26
   },
   {
-      "realName": "Cathleen Hana Nixie",
+      "fullname": "Cathleen Hana Nixie",
       "nickname": [
           "Cathy",
           "Cathleen"
@@ -1014,7 +1014,7 @@
       "memberId": 27
   },
   {
-      "realName": "Celline Thefannie",
+      "fullname": "Celline Thefannie",
       "nickname": [
           "Elin"
       ],
@@ -1044,7 +1044,7 @@
       "memberId": 28
   },
   {
-      "realName": "Chelsea Davina Norman",
+      "fullname": "Chelsea Davina Norman",
       "nickname": [
           "Chelsea"
       ],
@@ -1077,7 +1077,7 @@
       "memberId": 29
   },
   {
-      "realName": "Cynthia",
+      "fullname": "Cynthia",
       "nickname": [
           "Cynthia",
           "Ciput"
@@ -1108,7 +1108,7 @@
       "memberId": 30
   },
   {
-      "realName": "Dena Natalia Ang",
+      "fullname": "Dena Natalia Ang",
       "nickname": [
           "Danella",
           "Dena"
@@ -1141,7 +1141,7 @@
       "memberId": 31
   },
   {
-      "realName": "Desy Natalia Ang",
+      "fullname": "Desy Natalia Ang",
       "nickname": [
           "Daisy",
           "Desy"
@@ -1175,7 +1175,7 @@
       "memberId": 32
   },
   {
-      "realName": "Gendis Mayrannisa Setiawan",
+      "fullname": "Gendis Mayrannisa Setiawan",
       "nickname": [
           "Gendis"
       ],
@@ -1206,7 +1206,7 @@
       "memberId": 33
   },
   {
-      "realName": "Grace Octaviani Tanujaya",
+      "fullname": "Grace Octaviani Tanujaya",
       "nickname": [
           "Gracie",
           "Grace"
@@ -1238,7 +1238,7 @@
       "memberId": 34
   },
   {
-      "realName": "Greesella Sophina Adhalia",
+      "fullname": "Greesella Sophina Adhalia",
       "nickname": [
           "Greesel",
           "Icel"
@@ -1271,7 +1271,7 @@
       "memberId": 35
   },
   {
-      "realName": "Michelle Alexandra Suandi",
+      "fullname": "Michelle Alexandra Suandi",
       "nickname": [
           "Michie",
           "Michelle"
@@ -1303,7 +1303,7 @@
       "memberId": 36
   },
   {
-      "realName": "Abigail Rachel Lie",
+      "fullname": "Abigail Rachel Lie",
       "nickname": [
           "Aralie"
       ],
@@ -1333,7 +1333,7 @@
       "memberId": 37
   },
   {
-      "realName": "Adeline Wijaya",
+      "fullname": "Adeline Wijaya",
       "nickname": [
           "Delynn"
       ],
@@ -1364,7 +1364,7 @@
       "memberId": 38
   },
   {
-      "realName": "Aurhel Alana Tirta",
+      "fullname": "Aurhel Alana Tirta",
       "nickname": [
           "Lana",
           "Eonni",
@@ -1396,7 +1396,7 @@
       "memberId": 39
   },
   {
-      "realName": "Catherina Vallencia Kurniawan",
+      "fullname": "Catherina Vallencia Kurniawan",
       "nickname": [
           "Erine",
           "Erni"
@@ -1429,7 +1429,7 @@
       "memberId": 40
   },
   {
-      "realName": "Fritzy Rosmerian",
+      "fullname": "Fritzy Rosmerian",
       "nickname": [
           "Fritzy"
       ],
@@ -1460,7 +1460,7 @@
       "memberId": 41
   },
   {
-      "realName": "Hillary Abigail",
+      "fullname": "Hillary Abigail",
       "nickname": [
           "Lily"
       ],
@@ -1492,7 +1492,7 @@
       "memberId": 42
   },
   {
-      "realName": "Jazzlyn Agatha Trisha",
+      "fullname": "Jazzlyn Agatha Trisha",
       "nickname": [
           "Trisha"
       ],
@@ -1522,7 +1522,7 @@
       "memberId": 43
   },
   {
-      "realName": "Letycia Moreen Praditya",
+      "fullname": "Letycia Moreen Praditya",
       "nickname": [
           "Moreen"
       ],
@@ -1552,7 +1552,7 @@
       "memberId": 44
   },
   {
-      "realName": "Michelle Levia Arifin",
+      "fullname": "Michelle Levia Arifin",
       "nickname": [
           "Levi"
       ],
@@ -1583,7 +1583,7 @@
       "memberId": 45
   },
   {
-      "realName": "Nayla Suji Aurelia",
+      "fullname": "Nayla Suji Aurelia",
       "nickname": [
           "Nayla",
           "Nayla-chan"
@@ -1615,7 +1615,7 @@
       "memberId": 46
   },
   {
-      "realName": "Nina Tutachia Browning Chapman",
+      "fullname": "Nina Tutachia Browning Chapman",
       "nickname": [
           "Nachia"
       ],
@@ -1647,7 +1647,7 @@
       "memberId": 47
   },
   {
-      "realName": "Oline Manuel Chay",
+      "fullname": "Oline Manuel Chay",
       "nickname": [
           "Oline"
       ],
@@ -1678,7 +1678,7 @@
       "memberId": 48
   },
   {
-      "realName": "Regina Wilian Hapsari",
+      "fullname": "Regina Wilian Hapsari",
       "nickname": [
           "Regie"
       ],
@@ -1710,7 +1710,7 @@
       "memberId": 49
   },
   {
-      "realName": "Ribka Budiman",
+      "fullname": "Ribka Budiman",
       "nickname": [
           "Ribka",
           "Ribi"
@@ -1742,7 +1742,7 @@
       "memberId": 50
   },
   {
-      "realName": "Shabilqis Naila Bustami",
+      "fullname": "Shabilqis Naila Bustami",
       "nickname": [
           "Nala"
       ],
@@ -1773,7 +1773,7 @@
       "memberId": 51
   },
   {
-      "realName": "Victoria Kimberly",
+      "fullname": "Victoria Kimberly",
       "nickname": [
           "Kimmy"
       ],
