@@ -1,0 +1,45 @@
+{
+    "fullname": "Feni Fitriyanti",
+    "nickname": [
+        "Feni",
+        "Mpen",
+        "Teh Mpen",
+        "Yanti"
+    ],
+    "birthday": "1999-01-16",
+    "birthplace": "Cianjur, West Java, Indonesia",
+
+    "bloodtype": "O",
+    "zodiacSign": "Capricorn",
+    "height": 162,
+    "genres": [
+        "J-Pop",
+        "Indo-Pop",
+        "T-Pop",
+        "Hip-Hop",
+        "R&B"
+    ],
+    "stageNames": [
+        "Feni JKT48",
+        "FENI QUADLIPS"
+    ],
+    "occupation": [
+        "Singer",
+        "Idol",
+        "Dancer",
+        "Actress"
+    ],
+    "debut": "2014-03-16",
+    "agency": "PT. Indonesia Musik Nusantara",
+    "group": "JKT48",
+    "team": "JKT48",
+    "generation": 3,
+    "associatedActs": [
+        "JKT48"
+    ],
+    "subUnits": [
+        "4 Gulali (2016-2017)",
+        "Quadlips (2023-present)"
+    ],
+    "memberId": 0
+}
